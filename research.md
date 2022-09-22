@@ -43,7 +43,6 @@ description: empirical IO, household finance, and applied microeconomics.
 <!-- 
   <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/uncertainty_2019.pdf">slides</a>]</code><br/> -->
 
-
 - Sequential Private Experimentation Under Conclusive Bad News <br/>
   (with Wentao Fu and Meng Sun)<br/><br/> 
 <!--
