@@ -23,7 +23,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 - Empirical Microeconomics (Ph.D. core), 2019F.<br/>
 <!-- <code>[syllabus]</code><br/> -->
 
-- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), 2019S, 2020S, 2021S. <br/><br/>
+- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), 2019S, 2020S, 2021S. <br/>
 <!-- <code>[syllabus]</code><br/> -->
 
 <!-- - Data Scientist with R (MA), Spring 2019. <br/>
@@ -34,7 +34,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 - Principles of Microeconomics (B.A. core, 2021S, 2021F. <br/>
 <!-- <code>[syllabus]</code><br/> -->
 
-- Principles of Macroeconomics (B.A. core), 2020F, 2022S.<br/>
+- Principles of Macroeconomics (B.A. core), 2020F, 2022S.<br/><br/>
 <!-- <code>[syllabus]</code><br/> -->
 
 
