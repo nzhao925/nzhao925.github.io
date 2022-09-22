@@ -37,6 +37,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 - Principles of Macroeconomics (B.A. core), 2020F, 2022S.<br/>
 <!-- <code>[syllabus]</code><br/> -->
 
+
 ---
 ## <a name="instructor"></a> <br/> Texas A&M University
 
