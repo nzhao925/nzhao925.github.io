@@ -37,7 +37,7 @@ description: empirical IO, household finance, and applied microeconomics.
 
 ## <br/> Selected Working Papers
  
-- The devil in the air: air pollution and dementia. <!-- <strong><em>International Economic Review</em></strong> <br/> 
+- The devil in the air: air pollution and dementia. <br/> 
   (with Meng Sun and Emily Zheng)<br/><br/>
   <!--with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/><br/>
 <!-- 
