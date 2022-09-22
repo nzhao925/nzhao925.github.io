@@ -11,7 +11,7 @@ description: empirical IO, household finance, and applied microeconomics.
 <!-- #### <a name="pub"></a>publications -->
 
 <!-- ##### in Chinese -->
-- Uncertainty in Procurement Contracting with Time Incentives, <strong><em>International Economic Review</em></strong>, forthcoming.<br/> 
+- Uncertainty in Procurement Contracting with Time Incentives, <strong><em>International Economic Review</em></strong>, Volume 62, Issue 3, August 2021, 1153-1197.<br/> 
   (with Wenzheng Gao and Daiqiang Zhang) <code>[<a href="{{ BASE_PATH }}/research/ab_final_IER.pdf">final manuscript</a>] | [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12509">online version</a>]</code><br/><br/>
 
 - Effects of Minimum Wage on Workers’ On-the-Job Effort and Labor Market Outcomes, <strong><em>Economic Modelling</em></strong>, 95, 2021, 453-461.<br/> 
