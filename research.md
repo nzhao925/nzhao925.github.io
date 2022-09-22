@@ -23,7 +23,7 @@ description: empirical IO, household finance, and applied microeconomics.
 
 <!-- ##### in Chinese -->
 
-- 收入不平等、流动性约束与中国家庭储蓄率。 <strong>_《经济研究》_</strong>2018年第12期<br/> 
+- 收入不平等、流动性约束与中国家庭储蓄率，<strong>_《经济研究》_</strong>2018年第12期<br/> 
   (与甘犁、孙永智合作)<br/> 
   * 该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。<br/><br/>
 
@@ -37,7 +37,7 @@ description: empirical IO, household finance, and applied microeconomics.
 
 ## <br/> Selected Working Papers
  
-- The devil in the air: air pollution and dementia. <br/> 
+- The devil in the air: air pollution and dementia <br/> 
   (with Meng Sun and Emily Zheng)<br/><br/>
 
 
@@ -45,11 +45,11 @@ description: empirical IO, household finance, and applied microeconomics.
   (with Wentao Fu and Meng Sun)<br/><br/> 
   
  
-- Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure. <br/> 
+- Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure <br/> 
   (with Wenzheng Gao)<br/><br/>
   
   
-- 中国家庭的资产配置是最优的吗？基于住房资产主观预期回报率的福利分析。 <br/> 
+- 中国家庭的资产配置是最优的吗？基于住房资产主观预期回报率的福利分析 <br/> 
   (与王玉婷、许冰、Maxwell Pak合作)<br/><br/>
 
 
