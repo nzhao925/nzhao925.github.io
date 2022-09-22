@@ -31,7 +31,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 
 ## <a name="instructor"></a> <br/> SAI, SWUFE
 
-- Principles of Microeconomics (B.A. core, 2021S, 2021F. <br/>
+- Principles of Microeconomics (B.A. core), 2021S, 2021F. <br/>
 <!-- <code>[syllabus]</code><br/> -->
 
 - Principles of Macroeconomics (B.A. core), 2020F, 2022S.<br/><br/>
