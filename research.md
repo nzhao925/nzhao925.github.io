@@ -51,9 +51,9 @@ description: empirical IO, household finance, and applied microeconomics.
 <!-- 
 <code>[new draft coming soon]</code> <br/>
   
-<!--   
-- Sender’s Pre-announcement in Private Experimentation <br/> 
-  with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and Meng Sun<br/>
+ 
+- Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure. <br/> 
+  (with Meng Sun and Emily Zheng)<br/><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
 <!--   <code>[new draft coming soon]</code> <br/><br/> 
   <!-- <code>[<a href="{{ BASE_PATH }}/research/Fu_Sun_Zhao_2019_private_exp.pdf">link to latest draft</a>]</code> <br/><br/> -->
