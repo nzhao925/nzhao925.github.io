@@ -40,22 +40,21 @@ description: empirical IO, household finance, and applied microeconomics.
 - The devil in the air: air pollution and dementia. <br/> 
   (with Meng Sun and Emily Zheng)<br/><br/>
   <!--with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/><br/>
-<!-- 
+  <!-- 
   <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/uncertainty_2019.pdf">slides</a>]</code><br/> -->
 
 - Sequential Private Experimentation Under Conclusive Bad News <br/>
   (with Wentao Fu and Meng Sun)<br/><br/> 
-<!--
+  <!--
   with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://yongzhisun.com" target="_blank"> Yongzhi Sun</a><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-<!-- 
-<code>[new draft coming soon]</code> <br/>
+  <!-- <code>[new draft coming soon]</code> <br/>
   
  
 - Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure. <br/> 
-  (with Meng Sun and Emily Zheng)<br/><br/>
+  (with Wenzheng Gao)<br/><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-<!--   <code>[new draft coming soon]</code> <br/><br/> 
+  <!--   <code>[new draft coming soon]</code> <br/><br/> 
   <!-- <code>[<a href="{{ BASE_PATH }}/research/Fu_Sun_Zhao_2019_private_exp.pdf">link to latest draft</a>]</code> <br/><br/> -->
   
 <!--  
