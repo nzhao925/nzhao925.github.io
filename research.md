@@ -21,7 +21,7 @@ description: empirical IO, household finance, and applied microeconomics.
 
 <!-- ##### in Chinese -->
 
-- 收入不平等、流动性约束与中国家庭储蓄率，<strong>_《经济研究》_</strong>2018年第12期 (与甘犁、孙永智合作)<br/> 
+- 收入不平等、流动性约束与中国家庭储蓄率，<strong>_《经济研究》_</strong>2018年第12期。 (与甘犁、孙永智合作)<br/> 
   * 该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。<br/><br/>
 
 
