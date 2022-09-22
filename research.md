@@ -43,8 +43,10 @@ description: empirical IO, household finance, and applied microeconomics.
 <!-- 
   <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/uncertainty_2019.pdf">slides</a>]</code><br/> -->
 
-<!-- 
-- Income Inequality, Liquidity Constraints, and China's Household Savings <br/> 
+
+- Sequential Private Experimentation Under Conclusive Bad News <br/>
+  (with Wentao Fu and Meng Sun)<br/><br/> 
+<!--
   with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://yongzhisun.com" target="_blank"> Yongzhi Sun</a><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
 <!-- 
