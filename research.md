@@ -44,6 +44,9 @@ description: empirical IO, household finance, and applied microeconomics.
   
  
 - Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure (with Wenzheng Gao)<br/><br/>
+
+
+<!--- First Price Auction with Affiliation (with Li Zheng) -->
   
   
 - 中国家庭的资产配置是最优的吗？基于住房资产主观预期回报率的福利分析 (与王玉婷、许冰、Maxwell Pak合作)<br/><br/>
