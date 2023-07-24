@@ -23,29 +23,19 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 
 - Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households, <strong><em>Economic Research Journal</em></strong>, 01, 2023, 175-191. (with Yuting Wang, Bing Xu and Mawell Pak) [In Chinese: "房产预期回报率视角下的中国家庭资产配置"，<strong>《经济研究》</strong>2023年第1期。]<br/>
 
-- Income Inequality, Liquidity Constraints and China’s Household Savings Rate, <strong><em>Economic Research Journal</em></strong>, 12, 2018, 175-191. (with Li Gan and Yongzhi Sun) [In Chinese: "收入不平等、流动性约束与中国家庭储蓄率"，<strong>《经济研究》</strong>2018年第12期。该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。]<br/>
+- Income Inequality, Liquidity Constraints and China’s Household Savings Rate, <strong><em>Economic Research Journal</em></strong>, 12, 2018, 175-191. (with Li Gan and Yongzhi Sun) [In Chinese: "收入不平等、流动性约束与中国家庭储蓄率"，<strong>《经济研究》</strong>2018年第12期。该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。]<br/><br/>
 
 
 ---
 ## <a name="instructor"></a> <br/> Selected Working Papers
 
-- Microeconomic Theory (B.A. core), 2018S. <br/><br/>
-<!-- <code>[syllabus]</code><br/><br/> -->
+- Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education (with Flávio Cunha, Qinyou Hu, and Yiming Xia)<br/>
 
-<!--
-#### <a name="instructor"></a>recitation instructor
 
-<!-- - ECON 630: Microeconomic Theory II (PhD core), Texas A&M University, Spring 2015. <br/>
+- The Devil in the Air: Air Pollution and Dementia (with Meng Sun and Emily Zheng)<br/>
 
-<!-- - ECMT 463: Introduction to Econometrics (undergraduate), Texas A&M University, Fall 2017. <br/>
 
-<!-- - ECMT 461: Economic Data Analysis (undergraduate), Texas A&M University, Fall 2016, Spring 2017. <br/><br/> -->
-
-<!--
-#### <a name="ta"></a>teaching assistant
-
-<!-- - ECON 675: Capstone (MS core), Texas A&M University, 2014-2015. <br/>
-
-<!-- - ECON 311: Money and Banking (undergraduate), Texas A&M University, 2013-2014. <br/>
-
-<!-- - ECON 202: Principles of Economics (undergraduate), Texas A&M University, 2013-2014. <br/><br/> -->
+- Sequential Private Experimentation Under Conclusive Bad News (with Wentao Fu and Meng Sun)<br/>
+  
+ 
+- Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure (with Wenzheng Gao)<br/><br/>
