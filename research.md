@@ -21,10 +21,9 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 
 - Effects of Minimum Wage on Workers’ On-the-Job Effort and Labor Market Outcomes, <strong><em>Economic Modelling</em></strong>, 95, 2021, 453-461. (with Meng Sun)<br/>
 
-- Empirical Microeconomics (Ph.D. core), 2019F.<br/>
-<!-- <code>[syllabus]</code><br/> -->
+- Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households, <strong><em>Economic Research Journal</em></strong>, 01, 2023, 175-191. (with Yuting Wang, Bing Xu and Mawell Pak) [In Chinese: "房产预期回报率视角下的中国家庭资产配置"，《经济研究》2023年第1期。]<br/>
 
-- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), 2019S, 2020S, 2021S. <br/>
+- Income Inequality, Liquidity Constraints and China’s Household Savings Rate, <strong><em>Economic Research Journal</em></strong>, 12, 2018, 175-191. (with Li Gan and Yongzhi Sun) [In Chinese: "收入不平等、流动性约束与中国家庭储蓄率"，《经济研究》2018年第12期。该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。]<br/>
 
 
 ---
