@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Teaching | Naibao Zhao
+title: Research | Naibao Zhao
 tagline: 
-description: quantitative methods in empirical analysis, data science, and labor economics.
+description: economics of AI, empirical IO, labor/education, household finance, applied micro.
 ---
 <!--
 <div class="navbar">
@@ -15,7 +15,7 @@ description: quantitative methods in empirical analysis, data science, and labor
         </ul>
     </div>
 </div> -->
-## <a name="instructor"></a> <br/> RIEM, SWUFE
+## <a name="instructor"></a> <br/> Publications
 
 - Econometrics (B.A. core), 2020S, 2021S, 2022S. <br/>
 <!-- <code>[syllabus]</code><br/> -->
