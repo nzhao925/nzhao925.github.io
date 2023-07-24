@@ -2,7 +2,7 @@
 layout: default
 title: SSSI Chengdu 2019 | Naibao Zhao
 tagline: 
-description: economics of AI, empirical IO, labor/education, household finance, applied micro.
+description: SSSI Chengdu 2019
 ---
 <!--
 <div class="navbar">
