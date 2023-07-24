@@ -17,7 +17,7 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 </div> -->
 ## <a name="instructor"></a> <br/> Publications
 
-- Econometrics (B.A. core), 2020S, 2021S, 2022S. <br/>
+- Uncertainty in Procurement Contracting with Time Incentives, <strong><em>International Economic Review<em><strong>, Volume 62, Issue 3, August 2021, 1153-1197. <br/>
 <!-- <code>[syllabus]</code><br/> -->
 
 - Empirical Microeconomics (Ph.D. core), 2019F.<br/>
