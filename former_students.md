@@ -18,11 +18,11 @@ description: Former Students
 
 ## <br/>Graduate Advising
 
-### Masters At RIEM, SWUFE
+### Masters @RIEM, SWUFE
 
 | Graduation Year | Name           | Initial Placement                           | Current Placement        |
 | --------------- | --------------- | --------------------------------------------| ------------------------ |
-| 2021            | Wang, Ruoheng*  | KPMG                                       | KPMG                     |
+| 2021            | Wang, Ruoheng  | KPMG                                       | KPMG                     |
 
 <br/>
 
@@ -32,7 +32,7 @@ description: Former Students
 Note 1: I either served as an advisor for their undergraduate dissertation, or else a letter writer for their graduate school applications.<br/>
 Note 2: An asterisk indicates advisor.
 
-### At RIEM, SWUFE
+### @RIEM, SWUFE
 
 <style>
 td, th {
