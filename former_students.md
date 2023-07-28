@@ -29,6 +29,6 @@ td, th {
 </style>
 
 
-| Name         | Graduation Year       | Initial Placement         | Current Placement        |
+| Name         | Graduation Year       | Initial Placement        | Current Placement        |
 | ------------ | ------------- | ------------------ | ------------ |
-| Chen, Boyuan^* | 2023    | Boston University |     |
+| Chen, Boyuan* | 2023    | Boston University, MS in Business Analytics |                    |
