@@ -31,10 +31,13 @@ td, th {
 
 | Name            | Graduation Year| Initial Placement                           | Current Placement        |
 | --------------- | -------------- | --------------------------------------------| ------------------------ |
-| Chen, Boyuan*   | 2023           | Boston University, MS in Business Analytics |                          |
+| Chen, Boyuan*   | 2023           | Boston University, MSBA |                          |
 | Dong, Zhengying | 2023           | University of Hong Kong                     |                          |
-| Fan, Qingyang   | 2023           | UCLA                                        |                          |
+| Fan, Qingyang   | 2023           | UCLA,                                        |                          |
 | Han, Qihang     | 2023           | PKU Guanghua, MPAcc                         |                          |
-| Huang, Kaiwen*  | 2023           | Central U of F&E                            |                          |
+| Huang, Kaiwen*  | 2023           | Central U of F&E, MFin                      |                          |
 | Huang, Sijia    | 2023           | University of Cambridge/Chicago             |                          |
-| Huang, Zhouhang*| 2023           | Nanyang Tech. U, MSc in Accountancy (Data Analytics Specialisation) |  |
+| Huang, Zhouhang*| 2023           | Nanyang Tech. U, MAcc (Data Analytics Specialisation) |                |
+| Ling, Jiaxin    | 2023           | Renmin U,   |   |
+| Liu, Haoyu*     | 2023           | University of Hong Kong, MSc CompSc (Financial Computing Stream) | |
+| Liu, Ziang      | 2023           | University of Hong Kong, MSc CompSc (General Stream) | |
