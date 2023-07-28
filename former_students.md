@@ -41,3 +41,14 @@ td, th {
 | Ling, Jiaxin    | 2023           | Renmin U,   |   |
 | Liu, Haoyu*     | 2023           | University of Hong Kong, MSc CompSc (Financial Computing Stream) | |
 | Liu, Ziang      | 2023           | University of Hong Kong, MSc CompSc (General Stream) | |
+| Shen, Feiyun    | 2023           | Wuhan University,                           |       |
+| Tang, Zijiao    | 2023           | PKU SOE, MFin | |
+| Wang, Siying    | 2023           | Rutgers University,  |   |
+| Wang, Zihao     | 2023           | CEMFI, Master in Economics | |
+| Wu, Junqing     | 2023           | TAMU, MS Econ  |   |
+| Xiong, Jiayi    | 2023           | University College London (UCL), |  |
+| Yang, Jinchen   | 2023           | TAMU, MS Econ |  |
+| Zhao, Yexin     | 2023           | Xiamen U, | |
+| Zhou, Zhuoran   | 2023           | University of Cambridge,        |    |
+
+
