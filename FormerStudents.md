@@ -17,5 +17,5 @@ description: Former Students
 </div> -->
 ## <br/>Undergraduate Advising
 
-
+I either served as an advisor for their undergraduate dissertation, or else a letter writer for their graduate school applications.
 
