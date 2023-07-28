@@ -6,11 +6,6 @@ title: Naibao Zhao
 ## <br/>About Me
 
 <img class="profile-picture" src="nzhao.jpeg">
-    <div class="info">
-        <p>Associate Professor of Economics (with tenure)</p>
-        <h3>Research Institute of Economics and Management</h3>
-        <h3>Southwestern University of Finance and Economics</h3>
-    </div>
 
 I am an Associate Professor of Economics (with tenure) at the [Research Institute of Economics and Management (RIEM)](https://riem.swufe.edu.cn/), [Southwestern University of Finance and Economics (SWUFE)](https://www.swufe.edu.cn/), Chengdu China. I am also a [member of the Human Capital and Economic Opportunity (HCEO) "Inequality: Measurement, Interpretation, and Policy" working group (MIP)](https://hceconomics.uchicago.edu/people/naibao-zhao) at the University of Chicago.
 
