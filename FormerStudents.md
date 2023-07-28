@@ -18,7 +18,6 @@ description: Former Students
 ## <br/>Undergraduate Advising
 
 Note 1: I either served as an advisor for their undergraduate dissertation, or else a letter writer for their graduate school applications.
-
 Note 2: An asterisk indicates advisor.
 
 ### At RIEM, SWUFE
