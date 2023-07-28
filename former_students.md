@@ -24,6 +24,8 @@ description: Former Students
 | --------------- | --------------- | --------------------------------------------| ------------------------ |
 | 2021            | Wang, Ruoheng*  | KPMG                                       | KPMG                     |
 
+<br/>
+
 ---
 ## <br/>Undergraduate Advising
 
