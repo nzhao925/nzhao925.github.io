@@ -20,9 +20,9 @@ description: Former Students
 
 ### Masters @RIEM, SWUFE
 
-| Graduation Year | Name           | Initial Placement                           | Current Placement        |
-| --------------- | --------------- | --------------------------------------------| ------------------------ |
-| 2021            | Wang, Ruoheng  | KPMG                                       | KPMG                     |
+| Class of | Name           | Initial Placement                           | Current Placement        |
+| -------- | --------------- | --------------------------------------------| ------------------------ |
+| 2021     | Wang, Ruoheng  | KPMG                                       | KPMG                     |
 
 <br/>
 
@@ -41,8 +41,8 @@ td, th {
 </style>
 
 
-| Graduation Year | Name           | Initial Placement                           | Current Placement        |
-| --------------- | -------------- | --------------------------------------------| ------------------------ |
+| Class of | Name           | Initial Placement                           | Current Placement        |
+| -------- | -------------- | --------------------------------------------| ------------------------ |
 | 2023            | Chen, Boyuan*  | Boston University, MSBA |                          |
 | 2023            | Dong, Zhengying| University of Hong Kong                     |                          |
 | 2023            | Fan, Qingyang  | UCLA,                                        |                          |
