@@ -3,7 +3,7 @@ layout: default
 title: Naibao Zhao
 ---
 
-## <br/>About Me
+## <br/>Welcome!
 
 <img class="profile-picture" src="nzhao.jpeg">
 
