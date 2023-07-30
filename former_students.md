@@ -73,11 +73,11 @@ td, th {
 | 2022            | Li, Zhixin     | Columbia University | |
 | 2022            | Liu, Jingxian* |   |   |
 | 2022            | Lei, Chunya    | Hong Kong University of Science & Technology | |
-| 2022            | Lyu, Gengyu*   | Northwestern & CUHK  | Dual Masters |
+| 2022            | Lyu, Gengyu*   | Northwestern University & CUHK  | Dual Masters |
 | 2022            | Pang, Liwei    | National University of Singapore | |
 | 2022            | Wang, Yifan    | PKU HSBC | MFin |
 | 2022            | Xiao, Xuanqi   |                 |   |
-| 2022            | Xu, Ruotong*   | CUHK Shenzhen | MFin|
+| 2022            | Xu, Ruotong*   | CUHK Shenzhen | MSc in Accounting|
 | 2022            | Wang, Qianxin* | LSE  |  |
 | 2022            | Zhou, Xinyu    | PKU HSBC | MFin |
 
