@@ -63,7 +63,7 @@ td, th {
 | 2023            | Wu, Junqing    | TAMU   |  MS Econ |
 | 2023            | Xiong, Jiayi   | University College London (UCL) | Risk and Disaster Science |
 | 2023            | Yang, Jinchen  | TAMU | MS Econ |
-| 2023            | Yu, Jiahui     |      |
+| 2023            | Yu, Jiahui     | HSBC    |
 | 2023            | Zhao, Yexin    | Xiamen University | MFin |
 | 2023            | Zhou, Zhuoran  | University of Cambridge        |  MPhil in Economics   |
 | 2022            | Du, Kehan      | University of Bristol | MSc Economics, Finance and Management |
