@@ -16,9 +16,9 @@ description: economist.
     </div>
 </div> -->
 ## <a name="instructor"></a> <br/> Employment
-* 02/2022-present, Associate Professor of Economics (with tenure), Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/>
-* 03/2019-01/2022, Associate Professor of Economics, Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/>
-* 09/2018-02/2019, Assistant Professor of Economics, Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/><br/>
+* 02/2022-present, Associate Professor of Economics (with tenure), RIEM, Southwestern University of Finance and Economics<br/>
+* 03/2019-01/2022, Associate Professor of Economics, RIEM, Southwestern University of Finance and Economics<br/>
+* 09/2018-02/2019, Assistant Professor of Economics, RIEM, Southwestern University of Finance and Economics<br/><br/>
 
 
 ## <a name="instructor"></a> <br/> Education
