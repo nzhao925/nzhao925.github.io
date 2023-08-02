@@ -57,7 +57,7 @@ td, th {
 | 2023            | Liu, Ziang     | University of Hong Kong  | MSc CompSc (General Stream) |
 | 2023            | Shen, Feiyun   | Wuhan University                          |   MA Econ（Labor)    |
 | 2023            | Tang, Zijiao   | PKU SOE  | MFin |
-| 2023            | Wang, Siying   | Rutgers University  |  Ph.D. in Management（Accounting Information Systems Concentration） |
+| 2023            | Wang, Siying   | Rutgers University  |  Ph.D. in Management（Accounting Information Systems） |
 | 2023            | Wang, Zihao    | CEMFI | Master in Economics |
 | 2023            | Xiang, Wenxuan | University of New South Wales   | Master of Financial Technology|
 | 2023            | Wu, Junqing    | TAMU   |  MS Econ |
