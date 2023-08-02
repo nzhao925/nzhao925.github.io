@@ -61,7 +61,7 @@ td, th {
 | 2023            | Wang, Zihao    | CEMFI | Master in Economics |
 | 2023            | Xiang, Wenxuan | University of New South Wales   | Master of Financial Technology|
 | 2023            | Wu, Junqing    | TAMU   |  MS Econ |
-| 2023            | Xiong, Jiayi   | University College London (UCL) |  |
+| 2023            | Xiong, Jiayi   | University College London (UCL) | Risk and Disaster Science |
 | 2023            | Yang, Jinchen  | TAMU | MS Econ |
 | 2023            | Yang, Jinrui   |     |
 | 2023            | Yu, Jiahui     |      |
