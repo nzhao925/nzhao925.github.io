@@ -75,7 +75,7 @@ td, th {
 | 2022            | Lyu, Gengyu*   | Northwestern University & CUHK  | Dual Masters |
 | 2022            | Pang, Liwei    | National University of Singapore | Master of Applied Economics |
 | 2022            | Wang, Yifan    | PKU HSBC | MFin |
-| 2022            | Xiao, Xuanqi   |                 |   |
+| 2022            | Xiao, Xuanqi   | Technical University of Munich                | Master in Management & Technology  |
 | 2022            | Xu, Ruotong*   | CUHK Shenzhen | MSc in Accounting|
 | 2022            | Wang, Qianxin* | LSE  | MSc Economics and Management |
 | 2022            | Zhou, Xinyu    | PKU HSBC | MFin |
