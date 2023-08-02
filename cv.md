@@ -16,9 +16,9 @@ description: economist.
     </div>
 </div> -->
 ## <a name="instructor"></a> <br/> Employment
-* 02/2022-       ,  Associate Professor of Economics (with tenure), RIEM, SWUFE<br/>
-* 03/2019-01/2022,  Associate Professor of Economics, RIEM, SWUFE<br/>
-* 09/2018-02/2019,  Assistant Professor of Economics, RIEM, SWUFE<br/><br/>
+* 02/2022 - &nbsp;&nbsp;&nbsp;&nbsp;  Associate Professor of Economics (with tenure), RIEM, SWUFE<br/>
+* 03/2019 - 01/2022 &nbsp;&nbsp;  Associate Professor of Economics, RIEM, SWUFE<br/>
+* 09/2018 - 02/2019 &nbsp;&nbsp;  Assistant Professor of Economics, RIEM, SWUFE<br/><br/>
 
 
 ## <a name="instructor"></a> <br/> Education
