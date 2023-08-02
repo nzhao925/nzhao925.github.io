@@ -51,7 +51,7 @@ td, th {
 | 2023            | Huang, Sijia   | University of Cambridge           | MPhil in Economics                          |
 | 2023            | Huang, Zhouhang* | Nanyang Technological University  | MAcc (Data Analytics Specialisation)                |
 | 2023            | Li, Ruibing    | PwC then UK |  |
-| 2023            | Lian, Naiqi*   |  |  |
+| 2023            | Lian, Naiqi*   | Imperial College London | MSc Investment & Wealth Management |
 | 2023            | Ling, Jiaxin   | Renmin University of China   |  MA in Labor Economics |
 | 2023            | Liu, Haoyu*    | University of Hong Kong | MSc CompSc (Financial Computing Stream)  |
 | 2023            | Liu, Ziang     | University of Hong Kong  | MSc CompSc (General Stream) |
@@ -67,7 +67,7 @@ td, th {
 | 2023            | Zhao, Yexin    | Xiamen University | MFin |
 | 2023            | Zhou, Zhuoran  | University of Cambridge        |  MPhil in Economics   |
 | 2022            | Du, Kehan      | University of Bristol | MSc Economics, Finance and Management |
-| 2022            | Guo, Zhicheng  | University of Glasgow | |
+| 2022            | Guo, Zhicheng  | University of Glasgow | MSc Financial Economics|
 | 2022            | Huang, Nuoxin* | LSE                       | MSc Local Economic Development |
 | 2022            | Li, Zhixin     | Columbia University | MA in Mathematics of Finance|
 | 2022            | Liu, Jingxian* | University of Bonn |  MSc in Economics |
