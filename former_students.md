@@ -70,7 +70,7 @@ td, th {
 | 2022            | Du, Kehan      | University of Bristol | MSc Economics, Finance and Management |
 | 2022            | Guo, Zhicheng  | University of Glasgow | |
 | 2022            | Huang, Nuoxin* | LSE                       | MSc Local Economic Development |
-| 2022            | Li, Zhixin     | Columbia University | |
+| 2022            | Li, Zhixin     | Columbia University | MA in Mathematics of Finance|
 | 2022            | Liu, Jingxian* | University of Bonn |  MSc in Economics |
 | 2022            | Lei, Chunya    | Hong Kong University of Science & Technology | MSc in Economics |
 | 2022            | Lyu, Gengyu*   | Northwestern University & CUHK  | Dual Masters |
