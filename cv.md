@@ -16,14 +16,14 @@ description: economist.
     </div>
 </div> -->
 ## <a name="instructor"></a> <br/> Employment
-02/2022-present, Associate Professor of Economics (with tenure), Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/>
-03/2019-01/2022, Associate Professor of Economics, Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/>
-09/2018-02/2019, Assistant Professor of Economics, Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/><br/>
+* 02/2022-present, Associate Professor of Economics (with tenure), Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/>
+* 03/2019-01/2022, Associate Professor of Economics, Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/>
+* 09/2018-02/2019, Assistant Professor of Economics, Research Institute of Economics and Management, Southwestern University of Finance and Economics<br/><br/>
 
 
 ## <a name="instructor"></a> <br/> Education
-PhD, Economics (GPA 4.0/4.0), Texas A&M University, 2018<br/>
-Visiting PhD Student, Economics, University of Chicago, 2017-2018<br/>
-BEng, Electronic and Information Engineering, Shenzhen University, 2006<br/><br/>
+* PhD, Economics (GPA 4.0/4.0), Texas A&M University, 2018<br/>
+* Visiting PhD Student, Economics, University of Chicago, 2017-2018<br/>
+* BEng, Electronic and Information Engineering, Shenzhen University, 2006<br/><br/>
 
 
