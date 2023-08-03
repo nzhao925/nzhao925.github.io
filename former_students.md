@@ -18,6 +18,7 @@ description: former students.
 ## <br/>Graduate Advising
 
 ### Masters @RIEM, SWUFE
+
 | Class of | Name           | Initial Placement                           | Current Placement        |
 | -------- | --------------- | --------------------------------------------| ------------------------ |
 | 2021     | Wang, Ruoheng  | KPMG                                       | KPMG                     |
