@@ -47,8 +47,6 @@ Note 2: An asterisk indicates advisor.
 | 2023            | Han, Qihang    | PKU Guanghua                                 | MPAcc     |
 | 2023            | Huang, Kaiwen* | CUFE | MFin                          |
 | 2023            | Huang, Sijia   | University of Cambridge           | MPhil in Economics   |
-| 2023            | Huang, Zhouhang* | Nanyang Technological University  | MAcc (Data Analytics) |
-| 2023            | Li, Ruibing    | PwC then UK |  |
 
 
 
