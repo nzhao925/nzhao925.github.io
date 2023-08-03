@@ -33,10 +33,10 @@ table th:nth-of-type(2) {
     width: 20%;
 }
 table th:nth-of-type(3) {
-    width: 35%;
+    width: 34%;
 }
 table th:nth-of-type(4) {
-    width: 35%;
+    width: 34%;
 }
 </style>
 
