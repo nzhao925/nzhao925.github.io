@@ -10,7 +10,11 @@ html {
     padding: 0;
     //overflow-y: auto;
     //overflow-x: hidden;
-    overflow-y: scroll;
+    //overflow-y: scroll;
+}
+.wrap-outer {
+    margin-left: calc(100vw - 100%);
+    //padding-left: calc(100vw - 100%);
 }
 /*
 :root{
