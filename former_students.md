@@ -52,6 +52,8 @@ Note 2: An asterisk indicates advisor.
 
 ### @RIEM, SWUFE
 
+| Class of |
+| -------- |
 | Class of | Name           | Placement                           | Program        |
 | -------- | -------------- | --------------------------------------------| ------------------------ |
 | 2023     | Chen, Boyuan*  | Boston University                     | MS in Business Analytics  |
