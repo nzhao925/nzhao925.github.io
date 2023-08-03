@@ -52,14 +52,16 @@ hr {
     display: inline-block;
 }
 .navbar {
-    //position: fixed;
-    //top: 0;
-    //left: 0;
+    position: fixed;
+    top: 50%;
+    left: 50%;
     //width: 100%;
     //padding: 50px 0;
-    //z-index: 100;
+    z-index: 100;
+    transform: translate(-50%, -50%);
     //background-color: #333;  //Choose a color that fits your design
     padding: 50px 0 50px 0;
+    //padding: 0;
 }
 .navbar-ul {
     display: inline-block;
