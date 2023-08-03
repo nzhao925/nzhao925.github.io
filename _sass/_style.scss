@@ -10,6 +10,14 @@ html {
     padding: 0;
     //overflow-y: auto;
     //overflow-x: hidden;
+    overflow-y: scroll;
+}
+:root{
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+:root body{
+    position: absolute;
 }
 body {
     margin: 0;
@@ -20,6 +28,8 @@ body {
     background-color:#ffffff;
     height: 100%;
     //padding-top: 100px;
+    width: 100vw;
+    overflow: hidden;
 }
 code,pre {
 	padding:0 3px 2px;
