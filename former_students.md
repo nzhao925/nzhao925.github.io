@@ -25,6 +25,21 @@ td, th {
 }
 </style>
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 40%;
+}
+table th:nth-of-type(4) {
+    width: 40%;
+}
+</style>
+
 | Class of | Name           | Initial Placement                           | Current Placement        |
 | -------- | --------------- | --------------------------------------------| ------------------------ |
 | 2021     | Wang, Ruoheng  | KPMG                                       | KPMG                     |
