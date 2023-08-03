@@ -41,15 +41,14 @@ Note 2: An asterisk indicates advisor.
 
 | Class of | Name           | Placement                           | Program        |
 | -------- | -------------- | --------------------------------------------| ------------------------ |
-| 2023            | Chen, Boyuan*  | Boston University                     | MS in Business Analytics  |
-| 2023            | Dong, Zhengying| University of Hong Kong        |  MSc in ECom & ICom      |
-| 2023            | Fan, Qingyang  | UCLA                                       |  Master of Quantitative Economics     |
-| 2023            | Han, Qihang    | PKU Guanghua                                 | MPAcc     |
-| 2023            | Huang, Kaiwen* | CUFE | MFin                          |
-| 2023            | Huang, Sijia   | University of Cambridge           | MPhil in Economics   |
-| 2023            | Huang, Zhouhang* | Nanyang Tech. University  | MAcc (Data Analytics) |
-| 2023            | Li, Ruibing    | PwC then UK |  |
-| 2023            | Lian, Naiqi*   | Imperial College London | MSc Investment & Wealth Mgmt |
+| 2023     | Chen, Boyuan*  | Boston University                     | MS in Business Analytics  |
+| 2023     | Dong, Zhengying| University of Hong Kong        |  MSc in ECom & ICom      |
+| 2023     | Fan, Qingyang  | UCLA                                       |  Master of Quantitative Economics     |
+| 2023     | Han, Qihang    | PKU Guanghua                                 | MPAcc     |
+| 2023     | Huang, Kaiwen* | CUFE | MFin                          |
+| 2023     | Huang, Sijia   | University of Cambridge           | MPhil in Economics   |
+| 2023     | Li, Ruibing    | PwC then UK |  |
+| 2023     | Lian, Naiqi*   | Imperial College London | MSc Investment & Wealth Mgmt |
 
 
 
