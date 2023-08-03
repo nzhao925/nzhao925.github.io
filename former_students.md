@@ -41,7 +41,7 @@ table th:nth-of-type(4) {
 </style>
 
 | Class of | Name           | Initial Placement                           | Current Placement        |
-| -------- | --------------- | -------------------------------------------| ------------------------ |
+| :-------- | :--------------- | :-------------------------------------------| :------------------------ |
 | 2021     | Wang, Ruoheng  | KPMG                                        | KPMG                     |
 
 ---
@@ -53,7 +53,7 @@ Note 2: An asterisk indicates advisor.
 ### @RIEM, SWUFE
 
 | Class of | Name           | Placement                           | Program                  |
-| -------- | -------------- | ------------------------------------| ------------------------ |
+| :-------- | :-------------- | :------------------------------------| :------------------------ |
 | 2023     | Chen, Boyuan*  | Boston University                   | MS in Business Analytics  |
 | 2023     | Dong, Zhengying| University of Hong Kong             |  MSc in ECom & ICom |
 | 2023     | Fan, Qingyang  | UCLA                                |  Master of Quantitative Economics |
