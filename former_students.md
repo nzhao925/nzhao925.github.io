@@ -27,16 +27,16 @@ td, th {
 
 <style>
 table th:first-of-type {
-    width: 9%;
+    width: 10%;
 }
 table th:nth-of-type(2) {
-    width: 19%;
+    width: 20%;
 }
 table th:nth-of-type(3) {
-    width: 34%;
+    width: 35%;
 }
 table th:nth-of-type(4) {
-    width: 34%;
+    width: 35%;
 }
 </style>
 
