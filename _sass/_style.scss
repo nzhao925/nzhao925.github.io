@@ -53,6 +53,8 @@ hr {
     display: inline-block;
 }
 .navbar {
+    box-sizing: border-box;
+    height: 100px;
     position: fixed;
     top: 0;
     left: 0;
@@ -61,7 +63,7 @@ hr {
     //padding: 50px 0;
     z-index: 100;
     //transform: translate(-50%, -50%);
-    //background-color: #333;  //Choose a color that fits your design
+    background-color: #333;  //Choose a color that fits your design
     //padding: 50px 0 50px 0;
     padding: 50px 0;
 }
