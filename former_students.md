@@ -52,16 +52,6 @@ Note 2: An asterisk indicates advisor.
 
 ### @RIEM, SWUFE
 
-| Class of 2023|
-| ------------ |
-| Name           | Placement                           | Program        |
-| -------- | -------------- | --------------------------------------------| ------------------------ |
-| Chen, Boyuan*  | Boston University                     | MS in Business Analytics  |
-| Dong, Zhengying| University of Hong Kong        |  MSc in ECom & ICom      |
-| Fan, Qingyang  | UCLA                                       |  Master of Quantitative Economics     |
-| Han, Qihang    | PKU Guanghua                                 | MPAcc     |
-| Huang, Kaiwen* | CUFE | MFin                          |
-| Huang, Sijia   | University of Cambridge           | MPhil in Economics   |
 
 
 
