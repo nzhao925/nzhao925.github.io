@@ -19,6 +19,12 @@ description: former students.
 
 ### Masters @RIEM, SWUFE
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | Class of | Name           | Initial Placement                           | Current Placement        |
 | -------- | --------------- | --------------------------------------------| ------------------------ |
 | 2021     | Wang, Ruoheng  | KPMG                                       | KPMG                     |
