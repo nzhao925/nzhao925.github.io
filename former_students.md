@@ -63,7 +63,7 @@ Note 2: An asterisk indicates advisor.
 | 2023     | Huang, Zhouhang* | Nanyang Technological University  | MAcc (Data Analytics Specialisation) |
 | 2023     | Li, Ruibing    | PwC then UK |  |
 | 2023     | Lian, Naiqi*   | Imperial College London | MSc Investment & Wealth Management |
-| 2023     | Ling, Jiaxin   | Renmin University of China   |  MA in Labor Economics |
+| 2023     | Ling, Jiaxin   | Renmin University of China   |  MA Econ（Labor) |
 | 2023     | Liu, Haoyu*    | University of Hong Kong | MSc CompSc (Financial Computing)  |
 | 2023     | Liu, Ziang     | University of Hong Kong  | MSc CompSc (General) |
 | 2023     | Shen, Feiyun   | Wuhan University                          |   MA Econ（Labor)    |
@@ -72,7 +72,7 @@ Note 2: An asterisk indicates advisor.
 | 2023     | Wang, Zihao    | CEMFI | Master in Economics |
 | 2023     | Xiang, Wenxuan | University of New South Wales   | Master of Financial Technology|
 | 2023     | Wu, Junqing    | TAMU   |  MS Econ |
-| 2023     | Xiong, Jiayi   | University College London (UCL) | Risk and Disaster Science |
+| 2023     | Xiong, Jiayi   | University College London (UCL) | MSc Risk and Disaster Science |
 | 2023     | Yang, Jinchen  | TAMU | MS Econ |
 | 2023     | Yu, Jiahui     | HSBC    |
 | 2023     | Zhao, Yexin    | Xiamen University | MFin |
