@@ -30,7 +30,7 @@ table th:first-of-type {
     width: 9%;
 }
 table th:nth-of-type(2) {
-    width: 20%;
+    width: 19%;
 }
 table th:nth-of-type(3) {
     width: 34%;
