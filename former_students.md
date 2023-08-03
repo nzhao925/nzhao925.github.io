@@ -77,7 +77,7 @@ Note 2: An asterisk indicates advisor.
 | 2023     | Yu, Jiahui     | HSBC    |
 | 2023     | Zhao, Yexin    | Xiamen University | MFin |
 | 2023     | Zhou, Zhuoran  | University of Cambridge        |  MPhil in Economics   |
-| 2022     | Du, Kehan      | University of Bristol | MSc Econ, Fin and Mgmt |
+| 2022     | Du, Kehan      | University of Bristol | MSc Economics, Finance & Management |
 | 2022     | Guo, Zhicheng  | University of Glasgow | MSc Financial Economics|
 | 2022     | Huang, Nuoxin* | LSE                       | MSc Local Economic Development |
 | 2022     | Li, Zhixin     | Columbia University | MA in Mathematics of Finance|
