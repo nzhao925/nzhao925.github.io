@@ -8,8 +8,7 @@ title: Naibao Zhao
 <div style="display: flex; justify-content: space-around;">
     <div>
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
-        <h4>Associate Professor of Economics at</h4>
-        <h4>RIEM, SWUFE</h4>
+        <h4>Associate Professor at RIEM, SWUFE</h4>
     </div>
     <div style="max-width: 70%;">
         <h2>Welcome！</h2>
