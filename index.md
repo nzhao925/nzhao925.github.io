@@ -12,6 +12,10 @@ title: Naibao Zhao
         .first-div {
             margin-bottom: 50px;
         }
+        .second-div {
+            width: 100%;
+        }
+    }
 </style>
 
 <div class="container" style="display: flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;">
