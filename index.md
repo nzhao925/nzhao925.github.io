@@ -9,7 +9,7 @@ title: Naibao Zhao
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 30px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
         <p style="font-size: 18px; margin-bottom: 0px;"> Associate Professor at</p>
-        <h4 style="margin-bottom: -20px;"> Southwestern University of Finance and Economics</h4>
+        <h4 style="margin-bottom: -20px;"> RIEM, SWUFE</h4>
     </div>
     <div style="max-width: 65%;margin-right: 0px;">
         <h2>Welcome！</h2>
