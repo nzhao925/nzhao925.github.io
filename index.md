@@ -5,7 +5,7 @@ title: Naibao Zhao
 
 
 
-<div style="display: flex; justify-content: space-around;margin-top: 50px;">
+<div style="display: flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;">
     <div>
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
         <h4>Associate Professor at RIEM, SWUFE</h4>
