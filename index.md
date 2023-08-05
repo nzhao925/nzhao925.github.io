@@ -7,7 +7,7 @@ title: Naibao Zhao
 
 <div style="display: flex; justify-content: space-around;">
     <div>
-        <img src="nzhao.jpeg" alt="Profile Picture" style="width: 200px;">
+        <img src="nzhao.jpeg" alt="Profile Picture" style="width: 200px; border-radius: 50%;">
         <h2>Title</h2>
         <p>Affiliation</p>
     </div>
