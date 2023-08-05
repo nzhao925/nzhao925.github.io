@@ -2,10 +2,15 @@
 layout: default
 title: Naibao Zhao
 ---
+<style>
+    @media (max-width: 600px) {
+        .container {
+            flex-direction: column;
+        }
+    }
+</style>
 
-
-
-<div style="display: flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;">
+<div class="container" style="display: flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;">
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 30px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
         <p style="font-size: 18px; margin-bottom: -15px;"> Associate Professor at</p>
