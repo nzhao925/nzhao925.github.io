@@ -8,8 +8,8 @@ title: Naibao Zhao
 <div style="display: flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;">
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 30px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
-        <p style="font-size: 18px; margin-bottom: 0px;"> Associate Professor at<br> Research Institute of Economics and Management</p>
-        <h3 style="margin-bottom: -10px;"> Southwestern University of Finance and Economics</h3>
+        <p style="font-size: 18px; margin-bottom: 0px;"> Associate Professor at</p>
+        <h4 style="margin-bottom: -20px;"> Southwestern University of Finance and Economics</h4>
     </div>
     <div style="max-width: 65%;margin-right: 0px;">
         <h2>Welcome！</h2>
