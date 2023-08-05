@@ -8,7 +8,6 @@ title: Naibao Zhao
         .container {
             flex-direction: column;
         }
-    }
         .first-div {
             margin-bottom: 50px;
         }
