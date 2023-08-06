@@ -4,12 +4,12 @@ title: Naibao Zhao
 ---
 
 <div class="container" style="display: flex; justify-content: space-around; margin-top: 50px; margin-bottom: 50px;">
-    <div class="first-div" style="display: flex; flex-direction: column; margin-right: 200px; width: 30%;">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 30px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
         <p style="font-size: 18px; margin-bottom: -15px;"> Associate Professor at</p>
         <h3 style="font-size: 18px; margin-bottom: 50px;"> RIEM, SWUFE</h3>
     </div>
-    <div lass="second-div" style="display: flex; flex-direction: column; max-width: 100%; margin-right: 0px;">
+    <div style="max-width: 65%;margin-right: 0px;">
         <h2>Welcome！</h2>
         <p>I am an Associate Professor of Economics (with tenure) at the <a href="https://riem.swufe.edu.cn/">Research Institute of Economics and Management (RIEM)</a>, <a href="https://www.swufe.edu.cn/">Southwestern University of Finance and Economics (SWUFE)</a>, Chengdu China. I am also a <a href="https://hceconomics.uchicago.edu/people/naibao-zhao"> member of the Human Capital and Economic Opportunity (HCEO) "Inequality: Measurement, Interpretation, and Policy" working group (MIP)</a> at the University of Chicago.</p>
         <p style="margin-bottom: 30px;">My broad research field is empirical microeconomics which integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. In particular, my research covers a wide range of topics in empirical IO, household finance, and labor economics.</p>
