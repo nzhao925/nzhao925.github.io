@@ -121,7 +121,19 @@ hr {
 }
 
 /* Mobile */
-
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+    .first-div {
+        margin-bottom: 50px;
+	width: 100%;
+    }
+    .second-div {
+	margin-top: 50px;
+        width: 100%;
+    }
+}
 @media (max-width: 800px) {
     .container {
         max-width: $med-width;
