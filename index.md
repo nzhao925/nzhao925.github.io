@@ -3,20 +3,6 @@ layout: default
 title: Naibao Zhao
 ---
 
-<style>
-    @media (max-width: 600px) {
-        .container {
-            flex-direction: column;
-        }
-        .first-div {
-            margin-bottom: 50px;
-        }
-        .second-div {
-            width: 100%;
-        }
-    }
-</style>
-
 <div class="container" style="display: flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;">
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-right: 30px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
