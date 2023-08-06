@@ -121,12 +121,15 @@ hr {
 }
 
 /* Mobile */
-@media screen and (max-width: 600px) {
-        .responsive-div {
+@media screen and (max-width: 800px) {
+        .container {
+            flex-direction: column;
+        }
+        .responsive-div, .responsive-div2 {
             max-width: 100%;
         }
     }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     .container {
         flex-direction: column;
     }
