@@ -129,6 +129,7 @@ hr {
             max-width: 100%;
         }
     }
+/*
 @media (max-width: 800px) {
     .container {
         flex-direction: column;
@@ -148,6 +149,7 @@ hr {
         justify-content: center;
     }
 }
+*/
 @media (max-width: 800px) {
     .container {
         max-width: $med-width;
