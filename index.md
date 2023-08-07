@@ -16,9 +16,7 @@ title: Naibao Zhao
         <h3>Contact</h3>
             <span class="material-icons-sharp">email</span> nzhao [at] swufe.edu.cn<br/>
             <span class="material-icons-sharp">call</span> +86 (28) 8709 9030<br/> 
-            <span class="material-icons-sharp">business</span> 503 RIEM Building, Guanghua Campus<br/>
-            <span class="indent">Southwestern University of Finance and Economics</span><br/>
-            <span class="indent">Chengdu, Sichuan 610074, China</span><br/>
+            <span class="material-icons-sharp">business</span> 503 RIEM Building, 55 Guanghuacun St., Chengdu, Sichuan 610074, China<br/>
             <span class="material-icons-sharp">launch</span> <a href="https://riem.swufe.edu.cn/info/1052/1534.htm">SWUFE RIEM Faculty Profile</a><br/> 
     </div>
 </div>
