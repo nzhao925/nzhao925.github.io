@@ -14,8 +14,10 @@ title: Naibao Zhao
         <p>I am an Associate Professor of Economics (with tenure) at the <a href="https://riem.swufe.edu.cn/">Research Institute of Economics and Management (RIEM)</a>, <a href="https://www.swufe.edu.cn/">Southwestern University of Finance and Economics (SWUFE)</a>, Chengdu China. I am also a <a href="https://hceconomics.uchicago.edu/people/naibao-zhao"> member of the Human Capital and Economic Opportunity (HCEO) "Inequality: Measurement, Interpretation, and Policy" working group (MIP)</a> at the University of Chicago.</p>
         <p style="margin-bottom: 30px;">My broad research field is empirical microeconomics which integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. In particular, my research covers a wide range of topics in empirical IO, household finance, and labor economics.</p>
         <h3>Contact</h3>
-            <span class="material-icons-sharp">email</span> nzhao [at] swufe.edu.cn<br/> 
+            <span class="material-icons-sharp">email</span> nzhao [at] swufe.edu.cn<br/>
+            <span class="material-icons-sharp">call</span> +86 (28) 8709 9030<br/> 
             <span class="material-icons-sharp">business</span> 503 RIEM Building, Guanghua Campus<br/>Southwestern University of Finance and Economics<br/>Chengdu, Sichuan 610074<br/>P. R. China<br/><br/>
+            <span class="material-icons-sharp">email</span> <a href="https://riem.swufe.edu.cn/info/1052/1534.htm">SWUFE RIEM Faculty Profile</a><br/> 
     </div>
 </div>
 
