@@ -15,7 +15,7 @@ title: Naibao Zhao
         <p style="margin-bottom: 30px;">My broad research field is empirical microeconomics which integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. In particular, my research covers a wide range of topics in empirical IO, household finance, and labor economics.</p>
         <h3>Contact</h3>
             <i class="material-icons">email</i> nzhao [at] swufe.edu.cn<br/> 
-            <span class="material-icons-outlined">business</span>503 RIEM Building, Guanghua Campus<br/>Southwestern University of Finance and Economics<br/>Chengdu, Sichuan 610074<br/>P. R. China<br/><br/>
+            <span class="material-icons-outlined">business</span> 503 RIEM Building, Guanghua Campus<br/>Southwestern University of Finance and Economics<br/>Chengdu, Sichuan 610074<br/>P. R. China<br/><br/>
     </div>
 </div>
 
