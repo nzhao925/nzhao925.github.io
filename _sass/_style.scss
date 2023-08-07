@@ -56,6 +56,9 @@ hr {
 /*
  * Navbar
  */
+.material-icons-sharp {
+    transform: scale(0.6);  /* 调整0.8的值来增大或减小图标 */
+}
 
 #author-name {
     font-size: 26px;
