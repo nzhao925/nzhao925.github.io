@@ -7,11 +7,11 @@ title: Naibao Zhao
     <div class="responsive-div2" style="display: flex; flex-direction: column;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
         <p style="font-size: 18px; margin-bottom: -15px;"> Associate Professor at</p>
-        <h3 style="font-size: 18px; margin-bottom: 50px;"> RIEM, SWUFE</h3>
-        <div style="display: flex; gap: 20px;">
-          <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en"><img src="google_scholar_icon.png" alt="Google Scholar" style="width: 30px;"></a>
-          <a href="https://www.linkedin.com/in/naibao-zhao-92a140b7"><img src="linkedin_icon.png" alt="LinkedIn" style="width: 30px;"></a>
-          <a href="https://twitter.com/NaibaoZhao"><img src="twitter_icon.png" alt="Twitter" style="width: 30px;"></a>
+        <h3 style="font-size: 18px; margin-bottom: 25px;"> RIEM, SWUFE</h3>
+        <div style="display: flex; gap: 10px;">
+          <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en"><img src="google_scholar_icon.png" alt="Google Scholar" style="width: 25px;"></a>
+          <a href="https://www.linkedin.com/in/naibao-zhao-92a140b7"><img src="linkedin_icon.png" alt="LinkedIn" style="width: 25px;"></a>
+          <a href="https://twitter.com/NaibaoZhao"><img src="twitter_icon.png" alt="Twitter" style="width: 25px;"></a>
        </div>
     </div>
     <div class="responsive-div">
