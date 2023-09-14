@@ -17,9 +17,9 @@ description: economist.
 </div> -->
 ## <a name="instructor"></a> <br/> Current Positions
 * 02/2022 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Associate Professor of Economics (with tenure), RIEM, SWUFE<br/>
-* 08/2023 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Affiliate, James M. and Cathleen D. Stone Center for Research on Wealth Inequality and Mobility<br/>
+* 08/2023 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Research Affiliate, James M. and Cathleen D. Stone Center for Research on Wealth Inequality and Mobility<br/>
 * 07/2019 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Member, Human Capital and Economic Global Working Group<br/>
-* 09/2018 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Affiliate, Survey and Research Center for China Household Finance<br/><br/>
+* 09/2018 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Faculty Affiliate, Survey and Research Center for China Household Finance<br/><br/>
 
 ---
 ## <a name="instructor"></a> <br/> Previous Positions
