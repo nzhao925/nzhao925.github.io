@@ -61,7 +61,7 @@ Note 2: An asterisk indicates advisor.
 | 2023     | Huang, Kaiwen* | CUFE | MFin                         |
 | 2023     | Huang, Sijia   | University of Cambridge             | MPhil in Economics |
 | 2023     | Huang, Zhouhang* | Nanyang Technological University  | MAcc (Data Analytics Specialisation) |
-| 2023     | Li, Ruibing    | PwC then UK |  |
+| 2023     | Li, Ruibing    | PwC then UCL |  | MA Comparative Business Economics
 | 2023     | Lian, Naiqi*   | Imperial College London | MSc Investment & Wealth Management |
 | 2023     | Ling, Jiaxin   | Renmin University of China   |  MA Econ（Labor) |
 | 2023     | Liu, Haoyu*    | University of Hong Kong | MSc CompSc (Financial Computing)  |
@@ -74,7 +74,7 @@ Note 2: An asterisk indicates advisor.
 | 2023     | Wu, Junqing    | TAMU   |  MS Econ |
 | 2023     | Xiong, Jiayi   | University College London (UCL) | MSc Risk and Disaster Science |
 | 2023     | Yang, Jinchen  | TAMU | MS Econ |
-| 2023     | Yu, Jiahui     | HSBC    |
+| 2023     | Yu, Jiahui     | HSBC then HKUST    | MSc Global China Studies
 | 2023     | Zhao, Yexin    | Xiamen University | MFin |
 | 2023     | Zhou, Zhuoran  | University of Cambridge        |  MPhil in Economics   |
 | 2022     | Du, Kehan      | University of Bristol | MSc Economics, Finance & Management |
