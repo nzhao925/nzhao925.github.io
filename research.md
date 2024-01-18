@@ -36,8 +36,8 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 ---
 ## <a name="instructor"></a> <br/> Selected Working Papers
 
-- Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education (with Flávio Cunha, Qinyou Hu, and Yiming Xia)<br/>
-  <code>[<a href="https://www.nber.org/people/nzhao?page=1&perPage=50">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf">New draft coming soon</a>]</code><br/>
+- Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
+  with Flávio Cunha, Qinyou Hu, and Yiming Xia <code> | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf">New draft coming soon</a>]</code><br/>
 
 
 - The Devil in the Air: Air Pollution and Dementia, <strong><em>R&R, Journal of Environmental Economics and Management</em></strong><br/>
