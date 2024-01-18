@@ -48,7 +48,7 @@ table th:nth-of-type(4) {
 ## <br/>Undergraduate Advising
 
 Note 1: I either served as an advisor for their undergraduate dissertation, or else a letter writer for their graduate school applications.<br/>
-Note 2: An asterisk indicates advisor.
+Note 2: An asterisk indicates that I served as a dissertation advisor.
 
 ### @RIEM, SWUFE
 
