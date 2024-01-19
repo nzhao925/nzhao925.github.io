@@ -21,7 +21,7 @@ description: economics of AI, empirical IO, labor/education, household finance, 
   <code>with <a href="https://sites.google.com/view/wenzhenggao">Wenzheng Gao</a> and <a href="https://sites.google.com/view/daiqiang/home?authuser=0">Daiqiang Zhang</a> | [<a href="{{ BASE_PATH }}/research/ab_final_IER.pdf">final manuscript</a>] | [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12509">online version</a>]</code><br/>
 
 - Effects of Minimum Wage on Workers’ On-the-Job Effort and Labor Market Outcomes, <strong><em>Economic Modelling</em></strong>, 95, 2021, 453-461. <br/>
-  <code>with Meng Sun</code><br/>
+  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun">Meng Sun</a></code><br/>
 
 - Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households, <strong><em>Economic Research Journal</em></strong>, 01, 2023, 175-191.<br/>
   <code>with Yuting Wang, Bing Xu and Mawell Pak</code><br/>
@@ -29,7 +29,7 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 <!-- [In Chinese: "房产预期回报率视角下的中国家庭资产配置"，<strong>《经济研究》</strong>2023年第1期。] -->
 
 - Income Inequality, Liquidity Constraints and China’s Household Savings Rate, <strong><em>Economic Research Journal</em></strong>, 12, 2018, 175-191.<br/>
-  <code>with Li Gan and Yongzhi Sun</code><br/><br/>
+  <code>with <a href="https://liberalarts.tamu.edu/economics/profile/li-gan/">Gan Li</a> and Yongzhi Sun</code><br/><br/>
 
 <!-- [In Chinese: "收入不平等、流动性约束与中国家庭储蓄率"，<strong>《经济研究》</strong>2018年第12期。该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。] -->
 
@@ -37,16 +37,16 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 ## <a name="instructor"></a> <br/> Selected Working Papers
 
 - Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
-  <code>with Flávio Cunha, Qinyou Hu, and Yiming Xia | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf">New draft coming soon</a>]</code><br/>
+  <code>with <a href="https://www.flaviocunha.com/">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/homepage?authuser=0">Yiming Xia</a> | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf">New draft coming soon</a>]</code><br/>
 
 
 - The Devil in the Air: Air Pollution and Dementia, <strong><em>R&R, Journal of Environmental Economics and Management</em></strong><br/>
-  <code>with Meng Sun and Emily Zheng | [<a href="{{ BASE_PATH }}/research/dementia.pdf">New draft coming soon</a>]</code><br/>
+  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia.pdf">New draft coming soon</a>]</code><br/>
 
 
 - Sequential Private Experimentation Under Conclusive Bad News<br/>
-  <code>with Wentao Fu and Meng Sun</code> 
+  <code>with <a href="https://sites.google.com/view/wentaofu/home">Wentao Fu</a> and <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun">Meng Sun</a></code> 
   
  
 - Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure<br/>
-  <code>with Wenzheng Gao | [<a href="{{ BASE_PATH }}/research/binarySI.pdf">New draft coming soon</a>]</code> <br/><br/>
+  <code>with <a href="https://sites.google.com/view/wenzhenggao">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf">New draft coming soon</a>]</code> <br/><br/>
