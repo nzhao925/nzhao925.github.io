@@ -41,7 +41,7 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 
 
 - The Devil in the Air: Air Pollution and Dementia, <strong><em>R&R, Journal of Environmental Economics and Management</em></strong><br/>
-  <code> with Meng Sun and Emily Zheng | [<a href="{{ BASE_PATH }}/research/dementia.pdf">New draft coming soon</a>]</code><br/>
+  <code>with Meng Sun and Emily Zheng | [<a href="{{ BASE_PATH }}/research/dementia.pdf">New draft coming soon</a>]</code><br/>
 
 
 - Sequential Private Experimentation Under Conclusive Bad News<br/>
