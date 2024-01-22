@@ -40,7 +40,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 ## <a name="instructor"></a> <br/> Texas A&M University
 
 - Microeconomic Theory (B.A. core)<br/>
-  <code>2018S</code><br/>
+  <code>2018S</code><br/><br/>
 <!-- <code>[syllabus]</code><br/><br/> -->
 
 <!--
