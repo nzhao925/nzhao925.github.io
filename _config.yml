@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://nzhao925.github.io" 
-footer_text: "&copy Naibao Zhao 2023. <code>Last updated: August 6, 2023<br/><br/></code>"
+footer_text: "&copy Naibao Zhao 2023. <code>Last updated: January 22, 2024<br/><br/></code>"
 
 sass:
     style: compressed
