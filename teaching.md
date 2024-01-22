@@ -15,7 +15,7 @@ description: quantitative methods in empirical analysis, data science, and labor
         </ul>
     </div>
 </div> -->
-## <a name="instructor"></a> <br/> RIEM, SWUFE <font size ="3">(All courses are taught exclusively in English)</font>
+## <a name="instructor"></a> <br/> RIEM SWUFE <font size ="3">(All courses are taught exclusively in English)</font>
 
 - Econometrics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
   <code>2020S | 2021S | 2022S | 2024S </code><br/>
@@ -28,7 +28,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 <!-- - Data Scientist with R (MA), Spring 2019. <br/>
 <code>[syllabus]</code><br/><br/> -->
 
-## <a name="instructor"></a> <br/> SAI, SWUFE <font size ="3">(All courses are taught exclusively in English)</font>
+## <a name="instructor"></a> <br/> SAI SWUFE <font size ="3">(All courses are taught exclusively in English)</font>
 
 - Principles of Microeconomics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
   <code>2021S | 2021F</code><br/>
