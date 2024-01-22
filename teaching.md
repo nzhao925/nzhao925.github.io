@@ -33,13 +33,13 @@ description: quantitative methods in empirical analysis, data science, and labor
 - Principles of Microeconomics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
   <code>2021S | 2021F</code><br/>
 
-- Principles of Macroeconomics (B.A. core)<br/><br/> <!-- <code>[syllabus]</code><br/> -->
+- Principles of Macroeconomics (B.A. core)<br/><!-- <code>[syllabus]</code><br/> -->
   <code>2020F | 2022S</code><br/>
 
 ---
 ## <a name="instructor"></a> <br/> Texas A&M University
 
-- Microeconomic Theory (B.A. core)<br/><br/>
+- Microeconomic Theory (B.A. core)<br/>
   <code>2018S</code><br/>
 <!-- <code>[syllabus]</code><br/><br/> -->
 
