@@ -17,26 +17,30 @@ description: quantitative methods in empirical analysis, data science, and labor
 </div> -->
 ## <a name="instructor"></a> <br/> RIEM, SWUFE <font size ="3">(All courses are taught exclusively in English)</font>
 
-- Econometrics (B.A. core), 2020S, 2021S, 2022S.<br/> <!-- <code>[syllabus]</code><br/> -->
+- Econometrics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
+  <code>2020S | 2021S | 2022S | 2024S </code><br/>
 
-- Empirical Microeconomics (Ph.D. core), 2019F.<br/> <!-- <code>[syllabus]</code><br/> -->
-
-- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), 2019S, 2020S, 2021S. <br/> <!-- <code>[syllabus]</code><br/> -->
-
+- Empirical Microeconomics (Ph.D. core)<br/> <!-- <code>[syllabus]</code><br/> -->
+  <code>2019F</code><br/>
+  
+- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
+  <code>2019S | 2020S | 2021S</code><br/>
 <!-- - Data Scientist with R (MA), Spring 2019. <br/>
 <code>[syllabus]</code><br/><br/> -->
 
 ## <a name="instructor"></a> <br/> SAI, SWUFE <font size ="3">(All courses are taught exclusively in English)</font>
 
-- Principles of Microeconomics (B.A. core), 2021S, 2021F. <br/> <!-- <code>[syllabus]</code><br/> -->
+- Principles of Microeconomics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
+  <code>2021S | 2021F</code><br/>
 
-- Principles of Macroeconomics (B.A. core), 2020F, 2022S.<br/><br/> <!-- <code>[syllabus]</code><br/> -->
-
+- Principles of Macroeconomics (B.A. core)<br/><br/> <!-- <code>[syllabus]</code><br/> -->
+  <code>2020F | 2022S</code><br/>
 
 ---
 ## <a name="instructor"></a> <br/> Texas A&M University
 
-- Microeconomic Theory (B.A. core), 2018S. <br/><br/>
+- Microeconomic Theory (B.A. core)<br/><br/>
+  <code>2018S</code><br/>
 <!-- <code>[syllabus]</code><br/><br/> -->
 
 <!--
