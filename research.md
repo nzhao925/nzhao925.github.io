@@ -39,14 +39,11 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 - Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
   <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/homepage?authuser=0" target="_blank">Yiming Xia</a> | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/>
 
-
 - The Devil in the Air: Air Pollution and Dementia, <strong><em>R&R, Journal of Environmental Economics and Management</em></strong><br/>
   <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia.pdf" target="_blank">New draft coming soon</a>]</code><br/>
-
-
-- Sequential Private Experimentation Under Conclusive Bad News<br/>
-  <code>with <a href="https://sites.google.com/view/wentaofu/home" target="_blank">Wentao Fu</a> and <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a></code> 
-  
  
 - Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure<br/>
-  <code>with <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">New draft coming soon</a>]</code> <br/><br/>
+  <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">New draft coming soon</a>]</code> <br/>
+
+- Sequential Private Experimentation Under Conclusive Bad News<br/>
+  <code>with <a href="https://sites.google.com/view/wentaofu/home" target="_blank">Wentao Fu</a> and <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a></code><br/><br/> 
