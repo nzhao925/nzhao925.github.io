@@ -42,7 +42,7 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 - The Devil in the Air: Air Pollution and Dementia, <strong><em>R&R, Journal of Environmental Economics and Management</em></strong><br/>
   <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia.pdf" target="_blank">New draft coming soon</a>]</code><br/>
  
-- Identification and Estimation of Binary Choice Models with Social Interaction and Latent Group Structure<br/>
+- Identification and Estimation of Binary Choice Models with Social Interaction and Unknown Group Structures<br/>
   <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">New draft coming soon</a>]</code> <br/>
 
 - Sequential Private Experimentation Under Conclusive Bad News<br/>
