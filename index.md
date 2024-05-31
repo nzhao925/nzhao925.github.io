@@ -18,12 +18,12 @@ title: Naibao Zhao
         <h2>Welcome！</h2>
         <p>I am an Associate Professor of Economics (with tenure) at the <a href="https://riem.swufe.edu.cn/" target="_blank">Research Institute of Economics and Management (RIEM)</a>, <a href="https://www.swufe.edu.cn/" target="_blank">Southwestern University of Finance and Economics (SWUFE)</a> in Chengdu China.</p> 
         <p>I am also affiliated with <a href="https://harris.uchicago.edu/news-events/news/stone-center-research-wealth-inequality-and-mobility-launches-5-million-gift" target="_blank"> the James M. and Cathleen D. Stone Center for Research on Wealth Inequality and Mobility</a> and <a href="https://hceconomics.uchicago.edu/people/naibao-zhao" target="_blank"> the Human Capital and Economic Opportunity (HCEO) </a> at the University of Chicago.</p>
-        <p style="margin-bottom: 30px;">My broad research field is empirical microeconomics which integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. In particular, my research covers a wide range of topics in empirical IO, labor, education, and household finance.</p>
+        <p style="margin-bottom: 30px;">My broad research field is empirical microeconomics which integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. In particular, my research covers a wide range of topics in empirical IO, labor/education, applied micro, and household finance.</p>
         <h3>Contact</h3>
             <span class="material-icons-sharp">email</span> nzhao [at] swufe.edu.cn<br/>
             <span class="material-icons-sharp">call</span> +86 (28) 8709 9030<br/> 
             <span class="material-icons-sharp">business</span> 503 RIEM Building, 55 Guanghuacun St., Chengdu, Sichuan 610074, China<br/>
-            <a href="https://riem.swufe.edu.cn/info/1201/10141.htm" target="_blank"> <span class="material-icons-sharp">launch</span> SWUFE RIEM Faculty Profile</a><br/> 
+            <a href="https://riem.swufe.edu.cn/info/1201/13151.htm" target="_blank"> <span class="material-icons-sharp">launch</span> SWUFE RIEM Faculty Profile</a><br/> 
     </div>
 </div>
 
