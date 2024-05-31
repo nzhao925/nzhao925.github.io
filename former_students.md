@@ -57,7 +57,7 @@ Note 2: An asterisk indicates that I served as a dissertation advisor.
 | 2024     | Cai, Xiyu*     | University of Hong Kong             | MS in Business Analytics |
 | 2024     | Gao, Minghan*  | UCLA                                | Master of Quantitative Economics |
 | 2024     | Qu, Jingyi*    | Imperial College London             | MSc in Climate Change, Management & Finance|
-| 2024     | Wang, Ziyue*   | University of Oxford                | MSc in Economics ｜
+| 2024     | Wang, Ziyue*   | University of Oxford                | MSc in Economics   |
 | 2023     | Chen, Boyuan*  | Boston University                   | MS in Business Analytics  |
 | 2023     | Dong, Zhengying| University of Hong Kong             |  MSc in ECom & ICom |
 | 2023     | Fan, Qingyang  | UCLA                                |  Master of Quantitative Economics |
