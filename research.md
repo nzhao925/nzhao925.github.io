@@ -17,6 +17,9 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 </div> -->
 ## <a name="instructor"></a> <br/> Publications
 
+- The Devil in the Air: Air Pollution and Dementia, <strong><em>accepted, Journal of Environmental Economics and Management</em></strong><br/>
+  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management" target="_blank">online version</a>]</code><br/>
+
 - Uncertainty in Procurement Contracting with Time Incentives, <strong><em>International Economic Review</em></strong>, Volume 62, Issue 3, August 2021, 1153-1197.<br/>
   <code>with <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> and <a href="https://sites.google.com/view/daiqiang/home?authuser=0" target="_blank">Daiqiang Zhang</a> | [<a href="{{ BASE_PATH }}/research/ab_final_IER.pdf" target="_blank">final manuscript</a>] | [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12509" target="_blank">online version</a>]</code><br/>
 
@@ -38,9 +41,6 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 
 - Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
   <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/homepage?authuser=0" target="_blank">Yiming Xia</a> | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/>
-
-- The Devil in the Air: Air Pollution and Dementia, <strong><em>R&R, Journal of Environmental Economics and Management</em></strong><br/>
-  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia.pdf" target="_blank">New draft coming soon</a>]</code><br/>
  
 - Identification and Estimation of Binary Choice Models with Social Interaction and Unknown Group Structures<br/>
   <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">New draft coming soon</a>]</code> <br/>
