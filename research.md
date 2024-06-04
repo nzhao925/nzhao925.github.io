@@ -17,7 +17,7 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 </div> -->
 ## <a name="instructor"></a> <br/> Publications
 
-- The Devil in the Air: Air Pollution and Dementia, <strong><em>accepted, Journal of Environmental Economics and Management</em></strong><br/>
+- The Devil in the Air: Air Pollution and Dementia, <strong><em>forthcoming, Journal of Environmental Economics and Management</em></strong><br/>
   <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management" target="_blank">online version</a>]</code><br/>
 
 - Uncertainty in Procurement Contracting with Time Incentives, <strong><em>International Economic Review</em></strong>, Volume 62, Issue 3, August 2021, 1153-1197.<br/>
