@@ -2,7 +2,7 @@
 layout: default
 title: Research | Naibao Zhao
 tagline: 
-description: economics of AI, empirical IO, labor/education, household finance, applied micro.
+description: empirical IO, labor/education, applied micro, household finance.
 ---
 <!--
 <div class="navbar">
@@ -18,7 +18,7 @@ description: economics of AI, empirical IO, labor/education, household finance, 
 ## <a name="instructor"></a> <br/> Publications
 
 - The Devil in the Air: Air Pollution and Dementia, <strong><em>forthcoming, Journal of Environmental Economics and Management</em></strong><br/>
-  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management" target="_blank">online version</a>]</code><br/>
+  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0095069624000949" target="_blank">online version</a>]</code><br/>
 
 - Uncertainty in Procurement Contracting with Time Incentives, <strong><em>International Economic Review</em></strong>, Volume 62, Issue 3, August 2021, 1153-1197.<br/>
   <code>with <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> and <a href="https://sites.google.com/view/daiqiang/home?authuser=0" target="_blank">Daiqiang Zhang</a> | [<a href="{{ BASE_PATH }}/research/ab_final_IER.pdf" target="_blank">final manuscript</a>] | [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12509" target="_blank">online version</a>]</code><br/>
