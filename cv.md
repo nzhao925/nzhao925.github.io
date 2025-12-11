@@ -27,9 +27,9 @@ description: economist.
 * 02/2022 -- 10/2025 &nbsp;&nbsp;  Associate Professor of Economics (with tenure), RIEM, SWUFE<br/>
 * 03/2019 -- 01/2022 &nbsp;&nbsp;  Associate Professor of Economics, RIEM, SWUFE<br/>
 * 09/2018 -- 02/2019 &nbsp;&nbsp;  Assistant Professor of Economics, RIEM, SWUFE<br/>
-* 01/2017 -- 05/2018 &nbsp;&nbsp;  Scholar-in-Residence, CEHD, UChicago<br/><br/> -->
+* 01/2017 -- 05/2018 &nbsp;&nbsp;  Scholar-in-Residence, CEHD, UChicago<br/><br/> 
 
----
+--- -->
 ## <a name="instructor"></a> <br/> Education
 * PhD, Economics (GPA 4.0/4.0), Texas A&M University, 2018<br/>
 * Visiting PhD Student, Economics, University of Chicago, 2017-2018<br/>
