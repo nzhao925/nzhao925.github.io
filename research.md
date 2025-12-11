@@ -40,7 +40,7 @@ description: empirical IO, labor/education, applied micro, household finance.
 ## <a name="instructor"></a> <br/> Selected Working Papers
 
 - Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures. <strong><em>submitted</em></strong> <br/>
-  <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">New draft coming soon</a>]</code> <br/>
+  <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">Manuscript</a>]</code> <br/>
   
 - Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
   <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/homepage?authuser=0" target="_blank">Yiming Xia</a> | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/>
