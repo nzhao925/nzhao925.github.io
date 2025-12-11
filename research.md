@@ -17,7 +17,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 </div> -->
 ## <a name="instructor"></a> <br/> Publications
 
-- The Devil in the Air: Air Pollution and Dementia, <strong><em>Journal of Environmental Economics and Management</em></strong>, Volume 127, September 2024<br/>
+- The Devil in the Air: Air Pollution and Dementia, <strong><em>Journal of Environmental Economics and Management</em></strong>, Volume 127, September 2024.<br/>
   <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a> | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0095069624000949" target="_blank">online version</a>]</code><br/>
 
 - Uncertainty in Procurement Contracting with Time Incentives, <strong><em>International Economic Review</em></strong>, Volume 62, Issue 3, August 2021, 1153-1197.<br/>
