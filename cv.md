@@ -23,6 +23,7 @@ description: economist.
 
 ---
 ## <a name="instructor"></a> <br/> Previous Positions
+* 02/2022 -- 10/2025 &nbsp;&nbsp;  Associate Professor of Economics (with tenure), RIEM, SWUFE<br/>
 * 03/2019 -- 01/2022 &nbsp;&nbsp;  Associate Professor of Economics, RIEM, SWUFE<br/>
 * 09/2018 -- 02/2019 &nbsp;&nbsp;  Assistant Professor of Economics, RIEM, SWUFE<br/>
 * 01/2017 -- 05/2018 &nbsp;&nbsp;  Scholar-in-Residence, CEHD, UChicago<br/><br/>
