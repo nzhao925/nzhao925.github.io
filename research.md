@@ -2,7 +2,7 @@
 layout: default
 title: Research | Naibao Zhao
 tagline: 
-description: empirical IO, labor/education, applied micro, household finance.
+description: quantitative marketing, empirical IO, applied micro, household finance.
 ---
 <!--
 <div class="navbar">
