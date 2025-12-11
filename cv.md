@@ -15,6 +15,7 @@ description: economist.
         </ul>
     </div>
 </div> -->
+<!--
 ## <a name="instructor"></a> <br/> Current Positions
 * 02/2022 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Associate Professor of Economics (with tenure), RIEM, SWUFE<br/>
 * 08/2023 -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Research Affiliate, James M. and Cathleen D. Stone Center for Research on Wealth Inequality and Mobility<br/>
@@ -26,7 +27,7 @@ description: economist.
 * 02/2022 -- 10/2025 &nbsp;&nbsp;  Associate Professor of Economics (with tenure), RIEM, SWUFE<br/>
 * 03/2019 -- 01/2022 &nbsp;&nbsp;  Associate Professor of Economics, RIEM, SWUFE<br/>
 * 09/2018 -- 02/2019 &nbsp;&nbsp;  Assistant Professor of Economics, RIEM, SWUFE<br/>
-* 01/2017 -- 05/2018 &nbsp;&nbsp;  Scholar-in-Residence, CEHD, UChicago<br/><br/>
+* 01/2017 -- 05/2018 &nbsp;&nbsp;  Scholar-in-Residence, CEHD, UChicago<br/><br/> -->
 
 ---
 ## <a name="instructor"></a> <br/> Education
