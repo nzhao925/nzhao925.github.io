@@ -39,7 +39,7 @@ description: empirical IO, labor/education, applied micro, household finance.
 ---
 ## <a name="instructor"></a> <br/> Selected Working Papers
 
-- Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures. submitted <br/>
+- Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures. <strong><em>submitted</em></strong> <br/>
   <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">New draft coming soon</a>]</code> <br/>
   
 - Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
