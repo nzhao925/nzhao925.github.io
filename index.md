@@ -6,8 +6,8 @@ title: Naibao Zhao
 <div class="container" style="display: flex; justify-content: space-around; margin-top: 50px; margin-bottom: 50px;">
     <div class="responsive-div2" style="display: flex; flex-direction: column;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
-        <p style="font-size: 18px; margin-bottom: -15px;"> Associate Professor at</p>
-        <h3 style="font-size: 18px; margin-bottom: 15px;"> RIEM, SWUFE</h3>
+        <p style="font-size: 18px; margin-bottom: -15px;"> </p>
+        <h3 style="font-size: 18px; margin-bottom: 15px;"> </h3>
         <div style="display: flex; gap: 10px;">
           <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en"><img src="google_scholar_icon.png" alt="Google Scholar" style="width: 25px;"></a>
           <a href="https://www.linkedin.com/in/naibao-zhao-92a140b7/"><img src="linkedin_icon.png" alt="LinkedIn" style="width: 25px;"></a>
@@ -16,7 +16,7 @@ title: Naibao Zhao
     </div>
     <div class="responsive-div">
         <h2>Welcome！</h2>
-        <p>I am an Associate Professor of Economics (with tenure) at the <a href="https://riem.swufe.edu.cn/" target="_blank">Research Institute of Economics and Management (RIEM)</a>, <a href="https://www.swufe.edu.cn/" target="_blank">Southwestern University of Finance and Economics (SWUFE)</a> in Chengdu China.</p> 
+        <p>I am an applied microeconomist Previously, I was an Associate Professor of Economics (with tenure) at the <a href="https://riem.swufe.edu.cn/" target="_blank">Research Institute of Economics and Management (RIEM)</a>, <a href="https://www.swufe.edu.cn/" target="_blank">Southwestern University of Finance and Economics (SWUFE)</a> in Chengdu China.</p> 
         <p>I am also affiliated with <a href="https://stonecenter.uchicago.edu/people/naibao-zhao/" target="_blank"> the James M. and Cathleen D. Stone Center for Research on Wealth Inequality and Mobility</a> and <a href="https://hceconomics.uchicago.edu/people/naibao-zhao" target="_blank"> the Human Capital and Economic Opportunity (HCEO) </a> at the University of Chicago.</p>
         <p style="margin-bottom: 30px;">My broad research field is empirical microeconomics which integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. In particular, my research covers a wide range of topics in empirical IO, labor/education, applied micro, and household finance.</p>
         <h3>Contact</h3>
