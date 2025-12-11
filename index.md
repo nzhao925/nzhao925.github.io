@@ -37,7 +37,7 @@ title: Naibao Zhao
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 <!--
-## <br/>Contact
+## <br/><br/>Contact
 
 nzhao [at] swufe.edu.cn<br/> 
 503 RIEM Building, Guanghua Campus<br/> 
