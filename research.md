@@ -32,7 +32,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <!-- [In Chinese: "房产预期回报率视角下的中国家庭资产配置"，<strong>《经济研究》</strong>2023年第1期。] -->
 
 - Income Inequality, Liquidity Constraints and China’s Household Savings Rate, <strong><em>Economic Research Journal</em></strong>, 12, 2018, 175-191.<br/>
-  <code>with <a href="https://liberalarts.tamu.edu/economics/profile/li-gan/" target="_blank">Li Gan</a> and Yongzhi Sun</code><br/><br/>
+  <code>with Li Gan and Yongzhi Sun</code><br/><br/>
 
 <!-- [In Chinese: "收入不平等、流动性约束与中国家庭储蓄率"，<strong>《经济研究》</strong>2018年第12期。该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。] -->
 
