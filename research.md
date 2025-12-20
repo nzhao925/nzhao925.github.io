@@ -44,6 +44,9 @@ description: quantitative marketing, empirical IO, applied micro, household fina
   
 - Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
   <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/homepage?authuser=0" target="_blank">Yiming Xia</a> | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/>
+
+- From Empathy to Educational Opportunity: Long-Run Effects of a Parent-Directed Empathy Program on High School Admission <br/>
+  <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/homepage?authuser=0" target="_blank">Yiming Xia</a> | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/>
  
 
 
