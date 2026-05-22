@@ -23,7 +23,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 - Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households, <code>with Yuting Wang, Bing Xu, and Mawell Pak</code><br/>
   <strong><em>Economic Research Journal (ERJ)</em></strong>, 2023.<br/>
 
-- Uncertainty in Procurement Contracting with Time Incentives, <code>with <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> and <a href="https://sites.google.com/view/daiqiang/home?authuser=0" target="_blank">Daiqiang Zhang</a><br/></code><br/>
+- Uncertainty in Procurement Contracting with Time Incentives, <code>with <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> and <a href="https://sites.google.com/view/daiqiang/home?authuser=0" target="_blank">Daiqiang Zhang</a></code><br/>
   <strong><em>International Economic Review (IER)</em></strong>, 2021. <code>| [<a href="{{ BASE_PATH }}/research/ab_final_IER.pdf" target="_blank">final manuscript</a>] | [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12509" target="_blank">online version</a>]</code><br/>
 
 - Effects of Minimum Wage on Workers’ On-the-Job Effort and Labor Market Outcomes, <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a></code><br/>
