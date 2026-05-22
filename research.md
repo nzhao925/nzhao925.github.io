@@ -20,7 +20,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 - The Devil in the Air: Air Pollution and Dementia, <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a></code><br/>
   <strong><em>Journal of Environmental Economics and Management (JEEM)</em></strong>, 2024. <code>| [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0095069624000949" target="_blank">online version</a>]</code><br/>
 
-- Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households, <code>with Yuting Wang, Bing Xu and Mawell Pak</code><br/>
+- Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households, <code>with Yuting Wang, Bing Xu, and Mawell Pak</code><br/>
   <strong><em>Economic Research Journal (ERJ)</em></strong>, 2023.<br/>
 
 - Uncertainty in Procurement Contracting with Time Incentives, <code>with <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> and <a href="https://sites.google.com/view/daiqiang/home?authuser=0" target="_blank">Daiqiang Zhang</a><br/></code><br/>
