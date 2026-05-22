@@ -24,7 +24,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 .abs-toggle:hover { text-decoration: underline; }
 .abstract { max-height: 0; overflow: hidden; opacity: 0; transition: max-height .35s ease, opacity .25s ease, margin .35s ease; }
 .abstract.open { max-height: 1600px; opacity: 1; margin-top: .55em; }
-.abstract-body { background: #fafaf9; border-left: 3px solid #500000; padding: 10px 14px; font-size: 0.95em; line-height: 1.6; text-align: justify; }
+.abstract-body { background: #f8f8f8; border-left: 3px solid #500000; padding: 10px 14px; font-size: 0.95em; line-height: 1.6; text-align: justify; }
 </style>
  
 ## <a name="instructor"></a> <br/> Publications
@@ -33,7 +33,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <li>The Devil in the Air: Air Pollution and Dementia<br/>
   <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a></code><br/>
   <strong><em>Journal of Environmental Economics and Management (JEEM)</em></strong>, 2024. <code>[<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0095069624000949" target="_blank">online version</a>] |</code>
-  <div class="abstract"><div class="abstract-body">We study the causal relationship between air pollution and dementia prevalence. Leveraging the strict air pollution regulations implemented during the 2008 Beijing Olympics and employing a Synthetic Difference-in-Differences (SDID) approach, we find that a 1 µg/m3 decrease in annual PM10 levels corresponds to a 0.82 percentage point reduction in dementia prevalence (equivalent to 2.39% of the mean). Analyses across demographics show a more pronounced impact on vulnerable groups. Moreover, an economic assessment suggests that a 10 µg/m3 reduction in China’s air pollution in 2010 could generate up to 2.36 billion US dollars in benefits due to a lower dementia prevalence. These results highlight the potential public health gains achievable through air pollution regulations.</div></div>
+  <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households<br/>
   <code>with Yuting Wang, Bing Xu, and Mawell Pak</code><br/>
