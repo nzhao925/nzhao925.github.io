@@ -39,17 +39,18 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 ---
 ## <a name="instructor"></a> <br/> Selected Working Papers
 
-- Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures. <strong><em>submitted</em></strong> <br/>
-  <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">manuscript</a>]</code> <br/>
+- Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures, <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a></code><br/>
+  <strong><em>submitted</em></strong> <code>| [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">manuscript</a>]</code> <br/>
   
-- Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education <br/>
-  <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/home?authuser=0" target="_blank">Yiming Xia</a> | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/>
+- Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education, <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/home?authuser=0" target="_blank">Yiming Xia</a></code><br/>
+   <code>| [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/>
 
-- Earning Effects of Extending Compulsory Education: Continuation Values and the Credential Mismatch. <strong><em>submitted</em></strong> <br/>
-  <code>with Shiyu Xie and Bing Xu</code><br/>
+- Earning Effects of Extending Compulsory Education: Continuation Values and the Credential Mismatch, <code>with Shiyu Xie and Bing Xu</code><br/>
+  <strong><em>submitted</em></strong> <br/>
+  
 
-- From Empathy to Educational Opportunity: Long-Run Effects of a Parent-Directed Empathy Program on High School Admission <br/>
-  <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/home?authuser=0" target="_blank">Yiming Xia</a> | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/><br/>
+- From Empathy to Educational Opportunity: Long-Run Effects of a Parent-Directed Empathy Program on High School Admission, <code>with <a href="https://www.flaviocunha.com/" target="_blank">Flávio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/home?authuser=0" target="_blank">Yiming Xia</a></code><br/>
+   <code>| [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>]</code><br/><br/>
  
 
 
