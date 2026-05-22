@@ -20,11 +20,11 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <style>
 .pub-list { padding-left: 1.2em; }
 .pub-list > li { margin-bottom: 1.1em; }
-.abs-toggle { cursor: pointer; color: #8a1f1f; font-family: monospace; font-size: 0.95em; -webkit-user-select: none; user-select: none; }
+.abs-toggle { cursor: pointer; color: #500000; -webkit-user-select: none; user-select: none; }
 .abs-toggle:hover { text-decoration: underline; }
-.abstract { box-sizing: border-box; max-height: 0; overflow: hidden; opacity: 0; padding: 0 10px; transition: max-height .35s ease, opacity .25s ease, margin .35s ease; }
-.abstract.open { max-height: 1600px; opacity: 1; margin-top: .4em; padding: 10px; }
-.abstract-body { background: #fdfdfc; border: 1px solid #ededed; border-radius: 6px; box-shadow: 0 2px 12px rgba(0,0,0,0.09); padding: 14px 18px; font-size: 0.95em; line-height: 1.6; text-align: justify; }
+.abstract { max-height: 0; overflow: hidden; opacity: 0; transition: max-height .35s ease, opacity .25s ease, margin .35s ease; }
+.abstract.open { max-height: 1600px; opacity: 1; margin-top: .55em; }
+.abstract-body { background: #f6f6f4; border-left: 3px solid #500000; padding: 10px 14px; font-size: 0.95em; line-height: 1.6; text-align: justify; }
 </style>
  
 ## <a name="instructor"></a> <br/> Publications
@@ -32,27 +32,27 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <ul class="pub-list">
 <li>The Devil in the Air: Air Pollution and Dementia<br/>
   <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a></code><br/>
-  <strong><em>Journal of Environmental Economics and Management (JEEM)</em></strong>, 2024. <code>| [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0095069624000949" target="_blank">online version</a>] |</code> <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <strong><em>Journal of Environmental Economics and Management (JEEM)</em></strong>, 2024. <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">final manuscript</a>] | [<a href="https://www.sciencedirect.com/science/article/pii/S0095069624000949" target="_blank">online version</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>Subjective Belief on Housing Return and Its Implications on the Asset Allocations of Chinese Households<br/>
   <code>with Yuting Wang, Bing Xu, and Mawell Pak</code><br/>
-  <strong><em>Economic Research Journal (ERJ)</em></strong>, 2023. <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <strong><em>Economic Research Journal (ERJ)</em></strong>, 2023. <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>Uncertainty in Procurement Contracting with Time Incentives<br/>
   <code>with <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a> and <a href="https://sites.google.com/view/daiqiang/home?authuser=0" target="_blank">Daiqiang Zhang</a></code><br/>
-  <strong><em>International Economic Review (IER)</em></strong>, 2021. <code>| [<a href="{{ BASE_PATH }}/research/ab_final_IER.pdf" target="_blank">final manuscript</a>] | [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12509" target="_blank">online version</a>] |</code> <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <strong><em>International Economic Review (IER)</em></strong>, 2021. <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/ab_final_IER.pdf" target="_blank">final manuscript</a>] | [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/iere.12509" target="_blank">online version</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>Effects of Minimum Wage on Workers&rsquo; On-the-Job Effort and Labor Market Outcomes<br/>
   <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a></code><br/>
-  <strong><em>Economic Modelling</em></strong>, 2021. <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <strong><em>Economic Modelling</em></strong>, 2021. <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>Income Inequality, Liquidity Constraints and China&rsquo;s Household Savings Rate<br/>
   <code>with Li Gan and Yongzhi Sun</code><br/>
-  <strong><em>Economic Research Journal (ERJ)</em></strong>, 2018. <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <strong><em>Economic Research Journal (ERJ)</em></strong>, 2018. <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 </ul>
@@ -65,22 +65,22 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <ul class="pub-list">
 <li>Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures<br/>
   <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a></code><br/>
-  <strong><em>submitted</em></strong> <code>| [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">manuscript</a>] |</code> <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <strong><em>submitted</em></strong> <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">manuscript</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>Reducing Bullying: Evidence from a Parental Involvement Program on Empathy Education<br/>
   <code>with <a href="https://www.flaviocunha.com/" target="_blank">Fl&aacute;vio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/home?authuser=0" target="_blank">Yiming Xia</a></code><br/>
-  <code>| [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>] |</code> <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="https://www.nber.org/people/nzhao?page=1&perPage=50" target="_blank">NBER WP30827</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>Earning Effects of Extending Compulsory Education: Continuation Values and the Credential Mismatch<br/>
   <code>with Shiyu Xie and Bing Xu</code><br/>
-  <strong><em>submitted</em></strong> <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <strong><em>submitted</em></strong> <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 <li>From Empathy to Educational Opportunity: Long-Run Effects of a Parent-Directed Empathy Program on High School Admission<br/>
   <code>with <a href="https://www.flaviocunha.com/" target="_blank">Fl&aacute;vio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/home?authuser=0" target="_blank">Yiming Xia</a></code><br/>
-  <code>| [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>] |</code> <a class="abs-toggle" onclick="toggleAbs(this)">[abstract]</a>
+  <code>| [<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>] |</code>
   <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
 </li>
 </ul>
