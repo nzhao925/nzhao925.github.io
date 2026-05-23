@@ -30,7 +30,7 @@ description: economist.
 * 01/2017 -- 05/2018 &nbsp;&nbsp;  Scholar-in-Residence, CEHD, UChicago<br/><br/> 
 
 --- -->
-## <a name="instructor"></a> <br/> Education
+## <a name="instructor"></a> Education
 * PhD, Economics (GPA 4.0/4.0), Texas A&M University, 2018<br/>
 * Visiting PhD Student, Economics, University of Chicago, 2017-2018<br/>
 * BEng, Electronic and Information Engineering, Shenzhen University, 2006<br/><br/>

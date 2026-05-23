@@ -15,7 +15,7 @@ description: former students.
         </ul>
     </div>
 </div> -->
-## <br/>Graduate Advising
+## Graduate Advising
 
 ### Masters @RIEM, SWUFE
 
@@ -45,7 +45,7 @@ table th:nth-of-type(4) {
 | 2021     | Wang, Ruoheng  | KPMG                                        | KPMG                     |
 
 ---
-## <br/>Undergraduate Advising
+## Undergraduate Advising
 
 Note 1: I either served as an advisor for their undergraduate dissertation, or else a letter writer for their graduate school applications.<br/>
 Note 2: An asterisk indicates that I served as a dissertation advisor.

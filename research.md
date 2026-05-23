@@ -19,7 +19,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <!-- ============ 摘要展开功能的样式(只需保留一份) ============ -->
 <style>
 .pub-list { padding-left: 1.2em; }
-.pub-list > li { margin-bottom: 2.4em; }
+.pub-list > li { margin-bottom: 2.8em; }
 .pub-venue { font-size: 0.9em; }
 .pub-list code { color: #888; }
 .abs-toggle { cursor: pointer; color: #500000; -webkit-user-select: none; user-select: none; }
@@ -29,7 +29,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 .abstract-body { background: #f8f8f8; border-left: 3px solid #500000; padding: 10px 14px; font-size: 0.95em; line-height: 1.6; text-align: justify; }
 </style>
  
-## <a name="instructor"></a> <br/> Publications
+## <a name="instructor"></a> Publications
  
 <ul class="pub-list">
 <li>The Devil in the Air: Air Pollution and Dementia<br/>
@@ -62,7 +62,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <!-- [In Chinese: "收入不平等、流动性约束与中国家庭储蓄率"，<strong>《经济研究》</strong>2018年第12期。该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。] -->
  
 ---
-## <a name="workingpapers"></a> <br/> Selected Working Papers
+## <a name="workingpapers"></a> Selected Working Papers
  
 <ul class="pub-list">
 <li>Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures<br/>
