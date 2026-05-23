@@ -147,6 +147,8 @@ hr {
             justify-content: center;
 	    align-items: center;
             text-align: center;
+            align-self: center !important;
+            margin-top: 0 !important;
         }
         .responsive-div2 img {
             display: block;
