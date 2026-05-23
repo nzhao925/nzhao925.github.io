@@ -83,7 +83,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <li>From Empathy to Educational Opportunity: Long-Run Effects of a Parent-Directed Empathy Program on High School Admission<br/>
   <code>with <a href="https://www.flaviocunha.com/" target="_blank">Fl&aacute;vio Cunha</a>, <a href="https://sites.google.com/view/qinyouhu" target="_blank">Qinyou Hu</a>, and <a href="https://sites.google.com/view/yimingxia/home?authuser=0" target="_blank">Yiming Xia</a></code><br/>
   <span class="pub-venue"><code>[<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/empathy.pdf" target="_blank">New draft coming soon</a>] |</code></span>
-  <div class="abstract"><div class="abstract-body">在这里粘贴这篇论文的摘要 / Paste the abstract for this paper here.</div></div>
+  <div class="abstract"><div class="abstract-body"> </div></div>
 </li>
 </ul>
 <!-- - Sequential Private Experimentation Under Conclusive Bad News<br/>
