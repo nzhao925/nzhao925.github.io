@@ -3,7 +3,7 @@ layout: default
 title: Naibao Zhao
 ---
 
-<div class="container" style="display: flex; justify-content: space-around; margin-top: 50px; margin-bottom: 50px;">
+<div class="container" style="display: flex; justify-content: space-around; margin-top: 20px; margin-bottom: 50px;">
     <div class="responsive-div2" style="display: flex; flex-direction: column;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 12px;">
         <div style="display: flex; gap: 10px;">
