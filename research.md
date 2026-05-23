@@ -21,6 +21,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 .pub-list { padding-left: 1.2em; }
 .pub-list > li { margin-bottom: 2.4em; }
 .pub-venue { font-size: 0.9em; }
+.pub-list code { color: #888; }
 .abs-toggle { cursor: pointer; color: #500000; -webkit-user-select: none; user-select: none; }
 .abs-toggle:hover { text-decoration: underline; }
 .abstract { max-height: 0; overflow: hidden; opacity: 0; transition: max-height .35s ease, opacity .25s ease, margin .35s ease; }
