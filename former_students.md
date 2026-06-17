@@ -37,10 +37,10 @@ table th:nth-of-type(2) {
     width: 18%;
 }
 table th:nth-of-type(3) {
-    width: 33%;
+    width: 28%;
 }
 table th:nth-of-type(4) {
-    width: 39%;
+    width: 44%;
 }
 @media screen and (max-width: 600px) {
     table th:first-of-type, table td:nth-of-type(1) { width: 14%; }
