@@ -12,10 +12,13 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table tbody tr:last-child td { border-bottom: 1px solid #cccccc !important; }
 .teaching-table tr.tamu { background-color: #ffffff; }
 .teaching-table tr.swufe { background-color: #f0f0f0; }
-.teaching-table th:nth-of-type(1) { width: 32%; }
-.teaching-table th:nth-of-type(2) { width: 14%; }
-.teaching-table th:nth-of-type(3) { width: 30%; white-space: nowrap; }
-.teaching-table th:nth-of-type(4) { width: 24%; }
+.teaching-table th:nth-of-type(1) { width: auto; }
+.teaching-table th:nth-of-type(2) { width: 1%; white-space: nowrap; }
+.teaching-table th:nth-of-type(3) { width: 1%; white-space: nowrap; }
+.teaching-table th:nth-of-type(4) { width: 1%; white-space: nowrap; }
+.teaching-table td:nth-of-type(2),
+.teaching-table td:nth-of-type(3),
+.teaching-table td:nth-of-type(4) { white-space: nowrap; }
 </style>
 
 ## Current / Forthcoming Teaching
