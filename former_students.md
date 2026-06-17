@@ -32,7 +32,7 @@ table th:nth-of-type(2), table td:nth-of-type(2) { width: 18%; min-width: 18%; m
 table th:nth-of-type(3), table td:nth-of-type(3) { width: 33%; min-width: 33%; max-width: 33%; }
 table th:nth-of-type(4), table td:nth-of-type(4) { width: 39%; min-width: 39%; max-width: 39%; }
 @media screen and (max-width: 600px) {
-    table th, table td { word-break: break-word; font-size: 0.88em; padding: 6px 6px; }
+    table th, table td { overflow-wrap: break-word; font-size: 0.85em; padding: 5px 4px; }
 }
 </style>
 
