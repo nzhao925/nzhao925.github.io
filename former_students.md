@@ -51,7 +51,6 @@ table th:nth-of-type(4) {
 tr.y-shade { background-color: #f0f0f0 !important; }
 tr.y-plain { background-color: #ffffff !important; }
 tr.y-first td { padding-top: 12px; }
-tr.y-first td:first-child { font-weight: 600; }
 </style>
 
 <table>
