@@ -38,13 +38,13 @@ description: quantitative methods in empirical analysis, data science, and labor
 <!-- - Data Scientist with R (MA), Spring 2019. <br/>
 <code>[syllabus]</code><br/><br/> -->
 
-### <a name="instructor"></a> at SAI
+### at SAI
 
 - Principles of Microeconomics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
   <code>2021S | 2021F</code><br/>
 
 - Principles of Macroeconomics (B.A. core)<br/><!-- <code>[syllabus]</code><br/> -->
-  <code>2020F | 2022S</code><br/>
+  <code>2020F | 2022S</code><br/><br/>
 
 <!-- <code>[syllabus]</code><br/><br/> -->
 
