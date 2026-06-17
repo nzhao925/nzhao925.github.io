@@ -42,15 +42,15 @@ table th:nth-of-type(3) {
 table th:nth-of-type(4) {
     width: 39%;
 }
+@media screen and (max-width: 600px) {
+    table th:first-of-type, table td:nth-of-type(1) { width: 14%; }
+    table th:nth-of-type(2), table td:nth-of-type(2) { width: 22%; }
+    table th:nth-of-type(3), table td:nth-of-type(3) { width: 33%; }
+    table th:nth-of-type(4), table td:nth-of-type(4) { width: 31%; }
+}
 </style>
 
-<table style="table-layout: fixed; width: 100%;">
-<colgroup>
-  <col style="width: 10%;">
-  <col style="width: 18%;">
-  <col style="width: 33%;">
-  <col style="width: 39%;">
-</colgroup>
+<table>
 <thead>
 <tr><th>Class of</th><th>Name</th><th>Initial Placement</th><th>Current Placement</th></tr>
 </thead>
