@@ -98,6 +98,7 @@ description: quantitative methods in empirical analysis, data science, and labor
   <td><code>2018S</code></td>
 </tr>
 </tbody>
+<tfoot>
+<tr><td colspan="4" style="text-align: right; font-size: 0.85em; color: #666; font-style: italic; padding-top: 4px;">All SWUFE courses are taught exclusively in English.</td></tr>
+</tfoot>
 </table>
-
-<p style="font-size: 0.85em; color: #666; text-align: right; margin-top: 4px; font-style: italic;">All SWUFE courses are taught exclusively in English.</p>
