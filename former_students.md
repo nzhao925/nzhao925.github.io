@@ -23,16 +23,20 @@ description: former students.
 td, th {
    border: none!important;
 }
-table {
-    table-layout: fixed !important;
-    width: 100% !important;
+</style>
+
+<style>
+table th:first-of-type {
+    width: 10%;
 }
-table th:nth-of-type(1), table td:nth-of-type(1) { width: 10%; min-width: 10%; max-width: 10%; }
-table th:nth-of-type(2), table td:nth-of-type(2) { width: 18%; min-width: 18%; max-width: 18%; }
-table th:nth-of-type(3), table td:nth-of-type(3) { width: 33%; min-width: 33%; max-width: 33%; }
-table th:nth-of-type(4), table td:nth-of-type(4) { width: 39%; min-width: 39%; max-width: 39%; }
-@media screen and (max-width: 600px) {
-    table th, table td { overflow-wrap: break-word; font-size: 0.85em; padding: 5px 4px; }
+table th:nth-of-type(2) {
+    width: 18%;
+}
+table th:nth-of-type(3) {
+    width: 33%;
+}
+table th:nth-of-type(4) {
+    width: 39%;
 }
 </style>
 
