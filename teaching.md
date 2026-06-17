@@ -37,7 +37,7 @@ description: quantitative methods in empirical analysis, data science, and labor
   <col class="col-year">
 </colgroup>
 <thead>
-<tr><th>Course</th><th>Level</th><th>Institution <span style="white-space: nowrap;">(Department)</span></th><th>Year (Semester)</th></tr>
+<tr><th>Course</th><th>Level</th><th>Institution</th><th>Year</th></tr>
 </thead>
 <tbody>
 <tr class="tamu">
@@ -61,7 +61,7 @@ description: quantitative methods in empirical analysis, data science, and labor
   <col class="col-year">
 </colgroup>
 <thead>
-<tr><th>Course</th><th>Level</th><th>Institution <span style="white-space: nowrap;">(Department)</span></th><th>Year (Semester)</th></tr>
+<tr><th>Course</th><th>Level</th><th>Institution</th><th>Year</th></tr>
 </thead>
 <tbody>
 <tr class="swufe">
