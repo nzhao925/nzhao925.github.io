@@ -12,9 +12,9 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table tbody tr:last-child td { border-bottom: 1px solid #cccccc !important; }
 .teaching-table tr.tamu { background-color: #ffffff; }
 .teaching-table tr.swufe { background-color: #f0f0f0; }
-.teaching-table col.col-course { width: 36%; }
-.teaching-table col.col-level { width: 14%; }
-.teaching-table col.col-inst { width: 24%; }
+.teaching-table col.col-course { width: 35%; }
+.teaching-table col.col-level { width: 13%; }
+.teaching-table col.col-inst { width: 26%; }
 .teaching-table col.col-year { width: 26%; }
 .teaching-table td:nth-of-type(2),
 .teaching-table td:nth-of-type(3),
