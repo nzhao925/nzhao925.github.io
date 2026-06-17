@@ -14,8 +14,8 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table tr.swufe { background-color: #f0f0f0; }
 .teaching-table col.col-course { width: 35%; }
 .teaching-table col.col-level { width: 16%; }
-.teaching-table col.col-inst { width: 25%; }
-.teaching-table col.col-year { width: 24%; }
+.teaching-table col.col-inst { width: 27%; }
+.teaching-table col.col-year { width: 22%; }
 .teaching-table td:nth-of-type(2),
 .teaching-table td:nth-of-type(3),
 .teaching-table td:nth-of-type(4),
@@ -38,7 +38,7 @@ description: quantitative methods in empirical analysis, data science, and labor
   <col class="col-year">
 </colgroup>
 <thead>
-<tr><th>Course</th><th>Level</th><th>Institution (Department)</th><th>Year (Semester)</th></tr>
+<tr><th>Course</th><th>Level</th><th>Institution <span style="white-space: nowrap;">(Department)</span></th><th>Year (Semester)</th></tr>
 </thead>
 <tbody>
 <tr class="tamu">
@@ -62,7 +62,7 @@ description: quantitative methods in empirical analysis, data science, and labor
   <col class="col-year">
 </colgroup>
 <thead>
-<tr><th>Course</th><th>Level</th><th>Institution (Department)</th><th>Year (Semester)</th></tr>
+<tr><th>Course</th><th>Level</th><th>Institution <span style="white-space: nowrap;">(Department)</span></th><th>Year (Semester)</th></tr>
 </thead>
 <tbody>
 <tr class="swufe">
