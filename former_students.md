@@ -40,9 +40,20 @@ table th:nth-of-type(4) {
 }
 </style>
 
-| Class of | Name           | Initial Placement                           | Current Placement        |
-| :-------- | :--------------- | :-------------------------------------------| :------------------------ |
-| 2021     | Wang, Ruoheng  | KPMG                                        | KPMG                     |
+<table style="table-layout: fixed; width: 100%;">
+<colgroup>
+  <col style="width: 10%;">
+  <col style="width: 18%;">
+  <col style="width: 33%;">
+  <col style="width: 39%;">
+</colgroup>
+<thead>
+<tr><th>Class of</th><th>Name</th><th>Initial Placement</th><th>Current Placement</th></tr>
+</thead>
+<tbody>
+<tr><td>2021</td><td>Wang, Ruoheng</td><td>KPMG</td><td>KPMG</td></tr>
+</tbody>
+</table>
 
 ---
 ## Undergraduate Advising
