@@ -1,6 +1,17 @@
 @import "vars";
 
 .content {
+    h2 {
+        margin-bottom: 0.3em;
+    }
+    h3 {
+        margin-top: 0.4em;
+        margin-bottom: 0.3em;
+    }
+    h3 + ul,
+    h3 + ol {
+        margin-top: 0.2em;
+    }
     a:hover {
         text-decoration: underline;
     }
