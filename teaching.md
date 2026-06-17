@@ -15,6 +15,16 @@ description: quantitative methods in empirical analysis, data science, and labor
         </ul>
     </div>
 </div> -->
+## <a name="instructor"></a> Texas A&M University
+### Arch H. Aplin III'80 Department of Marketing
+- Marketing Research (B.A. core)<br/>
+  <code>2026F</code><br/>
+
+### Department of Economics
+- Microeconomic Theory (B.A. core)<br/>
+  <code>2018S</code><br/><br/>
+
+---
 ## <a name="instructor"></a> SWUFE <span style="font-size:0.85em">(All courses are taught exclusively in English)</span>
 ### at RIEM
 - Econometrics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
@@ -28,7 +38,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 <!-- - Data Scientist with R (MA), Spring 2019. <br/>
 <code>[syllabus]</code><br/><br/> -->
 
-### <a name="instructor"></a> SAI
+### <a name="instructor"></a> at SAI
 
 - Principles of Microeconomics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
   <code>2021S | 2021F</code><br/>
@@ -36,11 +46,6 @@ description: quantitative methods in empirical analysis, data science, and labor
 - Principles of Macroeconomics (B.A. core)<br/><!-- <code>[syllabus]</code><br/> -->
   <code>2020F | 2022S</code><br/>
 
----
-## <a name="instructor"></a> Texas A&M University
-
-- Microeconomic Theory (B.A. core)<br/>
-  <code>2018S</code><br/><br/>
 <!-- <code>[syllabus]</code><br/><br/> -->
 
 <!--
