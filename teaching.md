@@ -27,7 +27,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 <tr class="tamu">
   <td>Marketing Research</td>
   <td>B.A. core</td>
-  <td>TAMU Marketing</td>
+  <td>TAMU (Marketing)</td>
   <td><code>2026F</code></td>
 </tr>
 </tbody>
@@ -45,37 +45,37 @@ description: quantitative methods in empirical analysis, data science, and labor
 <tr class="swufe">
   <td>Econometrics</td>
   <td>B.A. core</td>
-  <td>SWUFE RIEM</td>
+  <td>SWUFE (RIEM)</td>
   <td><code>2024S | 2022S | 2021S | 2020S</code></td>
 </tr>
 <tr class="swufe">
   <td>Empirical Microeconomics</td>
   <td>Ph.D. core</td>
-  <td>SWUFE RIEM</td>
+  <td>SWUFE (RIEM)</td>
   <td><code>2019F</code></td>
 </tr>
 <tr class="swufe">
   <td>Quantitative Methods in Empirical Analysis</td>
   <td>Ph.D. &amp; M.A. core</td>
-  <td>SWUFE RIEM</td>
+  <td>SWUFE (RIEM)</td>
   <td><code>2021S | 2020S | 2019S</code></td>
 </tr>
 <tr class="swufe">
   <td>Principles of Microeconomics</td>
   <td>B.A. core</td>
-  <td>SWUFE SAI</td>
+  <td>SWUFE (SAI)</td>
   <td><code>2021F | 2021S</code></td>
 </tr>
 <tr class="swufe">
   <td>Principles of Macroeconomics</td>
   <td>B.A. core</td>
-  <td>SWUFE SAI</td>
+  <td>SWUFE (SAI)</td>
   <td><code>2022S | 2020F</code></td>
 </tr>
 <tr class="tamu">
   <td>Microeconomic Theory</td>
   <td>B.A. core</td>
-  <td>TAMU Economics</td>
+  <td>TAMU (Economics)</td>
   <td><code>2018S</code></td>
 </tr>
 </tbody>
