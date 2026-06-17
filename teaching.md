@@ -25,10 +25,10 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table th:nth-of-type(4) { white-space: nowrap; }
 @media screen and (max-width: 600px) {
   .teaching-table th, .teaching-table td { white-space: normal !important; padding: 6px 6px; overflow-wrap: break-word; }
-  .teaching-table col.col-course { width: 42%; }
+  .teaching-table col.col-course { width: 40%; }
   .teaching-table col.col-level { width: 14%; }
-  .teaching-table col.col-inst { width: 24%; }
-  .teaching-table col.col-year { width: 20%; }
+  .teaching-table col.col-inst { width: 28%; }
+  .teaching-table col.col-year { width: 18%; }
 }
 </style>
 
