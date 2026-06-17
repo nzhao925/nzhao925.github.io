@@ -6,24 +6,33 @@ description: quantitative methods in empirical analysis, data science, and labor
 ---
 
 <style>
-.teaching-table { width: 100%; margin: 15px 0; border-collapse: collapse; }
+.teaching-table { width: 100%; margin: 15px 0; border-collapse: collapse; table-layout: fixed; }
 .teaching-table th, .teaching-table td { border: none !important; padding: 8px 12px; text-align: left; vertical-align: top; }
 .teaching-table thead th { border-bottom: 1px solid #cccccc !important; font-weight: bold; }
 .teaching-table tbody tr:last-child td { border-bottom: 1px solid #cccccc !important; }
 .teaching-table tr.tamu { background-color: #ffffff; }
 .teaching-table tr.swufe { background-color: #f0f0f0; }
-.teaching-table th:nth-of-type(1) { width: auto; }
-.teaching-table th:nth-of-type(2) { width: 1%; white-space: nowrap; }
-.teaching-table th:nth-of-type(3) { width: 1%; white-space: nowrap; }
-.teaching-table th:nth-of-type(4) { width: 1%; white-space: nowrap; }
+.teaching-table col.col-course { width: 42%; }
+.teaching-table col.col-level { width: 14%; }
+.teaching-table col.col-inst { width: 22%; }
+.teaching-table col.col-year { width: 22%; }
 .teaching-table td:nth-of-type(2),
 .teaching-table td:nth-of-type(3),
-.teaching-table td:nth-of-type(4) { white-space: nowrap; }
+.teaching-table td:nth-of-type(4),
+.teaching-table th:nth-of-type(2),
+.teaching-table th:nth-of-type(3),
+.teaching-table th:nth-of-type(4) { white-space: nowrap; }
 </style>
 
 ## Current / Forthcoming Teaching
 
 <table class="teaching-table">
+<colgroup>
+  <col class="col-course">
+  <col class="col-level">
+  <col class="col-inst">
+  <col class="col-year">
+</colgroup>
 <thead>
 <tr><th>Course</th><th>Level</th><th>Institution (Department)</th><th>Year (Semester)</th></tr>
 </thead>
@@ -42,6 +51,12 @@ description: quantitative methods in empirical analysis, data science, and labor
 ## Previous Teaching
 
 <table class="teaching-table">
+<colgroup>
+  <col class="col-course">
+  <col class="col-level">
+  <col class="col-inst">
+  <col class="col-year">
+</colgroup>
 <thead>
 <tr><th>Course</th><th>Level</th><th>Institution (Department)</th><th>Year (Semester)</th></tr>
 </thead>
