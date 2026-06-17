@@ -22,6 +22,12 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table th:nth-of-type(2),
 .teaching-table th:nth-of-type(3),
 .teaching-table th:nth-of-type(4) { white-space: nowrap; }
+@media screen and (max-width: 600px) {
+  .teaching-table { table-layout: auto; }
+  .teaching-table col { width: auto !important; }
+  .teaching-table th, .teaching-table td { white-space: normal !important; padding: 6px 6px; font-size: 0.88em; }
+  .teaching-table code { font-size: 10px; }
+}
 </style>
 
 ## Current / Forthcoming Teaching
