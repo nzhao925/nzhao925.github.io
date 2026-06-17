@@ -11,10 +11,10 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table thead th { border-bottom: 1px solid #cccccc !important; font-weight: bold; }
 .teaching-table tr.tamu { background-color: #ffffff; }
 .teaching-table tr.swufe { background-color: #f0f0f0; }
-.teaching-table th:nth-of-type(1) { width: 34%; }
-.teaching-table th:nth-of-type(2) { width: 16%; }
-.teaching-table th:nth-of-type(3) { width: 20%; }
-.teaching-table th:nth-of-type(4) { width: 30%; }
+.teaching-table th:nth-of-type(1) { width: 32%; }
+.teaching-table th:nth-of-type(2) { width: 14%; }
+.teaching-table th:nth-of-type(3) { width: 30%; white-space: nowrap; }
+.teaching-table th:nth-of-type(4) { width: 24%; }
 </style>
 
 ## Current / Forthcoming Teaching
