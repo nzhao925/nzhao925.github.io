@@ -14,8 +14,8 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table tr.swufe { background-color: #f0f0f0; }
 .teaching-table col.col-course { width: 35%; }
 .teaching-table col.col-level { width: 16%; }
-.teaching-table col.col-inst { width: 27%; }
-.teaching-table col.col-year { width: 22%; }
+.teaching-table col.col-inst { width: 26%; }
+.teaching-table col.col-year { width: 23%; }
 .teaching-table td:nth-of-type(2),
 .teaching-table td:nth-of-type(3),
 .teaching-table td:nth-of-type(4),
