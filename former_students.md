@@ -23,9 +23,10 @@ description: former students.
 td, th {
    border: none!important;
 }
-</style>
-
-<style>
+table {
+    table-layout: fixed;
+    width: 100%;
+}
 table th:first-of-type {
     width: 10%;
 }
@@ -37,6 +38,9 @@ table th:nth-of-type(3) {
 }
 table th:nth-of-type(4) {
     width: 39%;
+}
+@media screen and (max-width: 600px) {
+    table th, table td { word-break: break-word; font-size: 0.88em; padding: 6px 6px; }
 }
 </style>
 
