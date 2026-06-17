@@ -1,67 +1,84 @@
 ---
 layout: default
 title: Teaching | Naibao Zhao
-tagline: 
+tagline:
 description: quantitative methods in empirical analysis, data science, and labor economics.
 ---
-<!--
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#current">current courses</a></li>
-            <li><a href="#shortcourses">short courses</a></li>
-            <li><a href="#misc">misc lectures</a></li>
-            <li><a href="#old">former courses</a></li>
-        </ul>
-    </div>
-</div> -->
-## <a name="instructor"></a> Texas A&M University
-### Arch H. Aplin III'80 Department of Marketing
-- Marketing Research (B.A. core)<br/>
-  <code>2026F</code><br/>
 
-### Department of Economics
-- Microeconomic Theory (B.A. core)<br/>
-  <code>2018S</code><br/><br/>
+<style>
+.teaching-table { width: 100%; margin: 15px 0; border-collapse: collapse; }
+.teaching-table th, .teaching-table td { border: none !important; padding: 8px 12px; text-align: left; vertical-align: top; }
+.teaching-table thead th { border-bottom: 1px solid #cccccc !important; font-weight: bold; }
+.teaching-table tr.tamu { background-color: #ffffff; }
+.teaching-table tr.swufe { background-color: #f0f0f0; }
+.teaching-table th:nth-of-type(1) { width: 34%; }
+.teaching-table th:nth-of-type(2) { width: 16%; }
+.teaching-table th:nth-of-type(3) { width: 20%; }
+.teaching-table th:nth-of-type(4) { width: 30%; }
+</style>
+
+## Current / Forthcoming Teaching
+
+<table class="teaching-table">
+<thead>
+<tr><th>Course</th><th>Level</th><th>Institution</th><th>Year (Semester)</th></tr>
+</thead>
+<tbody>
+<tr class="tamu">
+  <td>Marketing Research</td>
+  <td>B.A. core</td>
+  <td>TAMU Marketing</td>
+  <td><code>2026F</code></td>
+</tr>
+</tbody>
+</table>
 
 ---
-## <a name="instructor"></a> SWUFE <span style="font-size:0.85em">(All courses are taught exclusively in English)</span>
-### at RIEM
-- Econometrics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
-  <code>2020S | 2021S | 2022S | 2024S </code><br/>
 
-- Empirical Microeconomics (Ph.D. core)<br/> <!-- <code>[syllabus]</code><br/> -->
-  <code>2019F</code><br/>
-  
-- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
-  <code>2019S | 2020S | 2021S</code><br/>
-<!-- - Data Scientist with R (MA), Spring 2019. <br/>
-<code>[syllabus]</code><br/><br/> -->
+## Previous Teaching
 
-### at SAI
+<table class="teaching-table">
+<thead>
+<tr><th>Course</th><th>Level</th><th>Institution</th><th>Year (Semester)</th></tr>
+</thead>
+<tbody>
+<tr class="swufe">
+  <td>Econometrics</td>
+  <td>B.A. core</td>
+  <td>SWUFE RIEM</td>
+  <td><code>2024S | 2022S | 2021S | 2020S</code></td>
+</tr>
+<tr class="swufe">
+  <td>Empirical Microeconomics</td>
+  <td>Ph.D. core</td>
+  <td>SWUFE RIEM</td>
+  <td><code>2019F</code></td>
+</tr>
+<tr class="swufe">
+  <td>Quantitative Methods in Empirical Analysis</td>
+  <td>Ph.D. &amp; M.A. core</td>
+  <td>SWUFE RIEM</td>
+  <td><code>2021S | 2020S | 2019S</code></td>
+</tr>
+<tr class="swufe">
+  <td>Principles of Microeconomics</td>
+  <td>B.A. core</td>
+  <td>SWUFE SAI</td>
+  <td><code>2021F | 2021S</code></td>
+</tr>
+<tr class="swufe">
+  <td>Principles of Macroeconomics</td>
+  <td>B.A. core</td>
+  <td>SWUFE SAI</td>
+  <td><code>2022S | 2020F</code></td>
+</tr>
+<tr class="tamu">
+  <td>Microeconomic Theory</td>
+  <td>B.A. core</td>
+  <td>TAMU Economics</td>
+  <td><code>2018S</code></td>
+</tr>
+</tbody>
+</table>
 
-- Principles of Microeconomics (B.A. core)<br/> <!-- <code>[syllabus]</code><br/> -->
-  <code>2021S | 2021F</code><br/>
-
-- Principles of Macroeconomics (B.A. core)<br/><!-- <code>[syllabus]</code><br/> -->
-  <code>2020F | 2022S</code><br/><br/>
-
-<!-- <code>[syllabus]</code><br/><br/> -->
-
-<!--
-#### <a name="instructor"></a>recitation instructor
-
-<!-- - ECON 630: Microeconomic Theory II (PhD core), Texas A&M University, Spring 2015. <br/>
-
-<!-- - ECMT 463: Introduction to Econometrics (undergraduate), Texas A&M University, Fall 2017. <br/>
-
-<!-- - ECMT 461: Economic Data Analysis (undergraduate), Texas A&M University, Fall 2016, Spring 2017. <br/><br/> -->
-
-<!--
-#### <a name="ta"></a>teaching assistant
-
-<!-- - ECON 675: Capstone (MS core), Texas A&M University, 2014-2015. <br/>
-
-<!-- - ECON 311: Money and Banking (undergraduate), Texas A&M University, 2013-2014. <br/>
-
-<!-- - ECON 202: Principles of Economics (undergraduate), Texas A&M University, 2013-2014. <br/><br/> -->
+<p style="font-size: 0.85em; color: #666; margin-top: 8px;">All SWUFE courses are taught exclusively in English.</p>
