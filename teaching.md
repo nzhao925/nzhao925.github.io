@@ -37,7 +37,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 </tbody>
 </table>
 
-<hr style="margin: 50px 0;">
+<div style="margin-top: 40px;"></div>
 
 ## Previous Teaching
 
@@ -85,4 +85,4 @@ description: quantitative methods in empirical analysis, data science, and labor
 </tbody>
 </table>
 
-<p style="font-size: 0.85em; color: #666; margin-top: 8px;">All SWUFE courses are taught exclusively in English.</p>
+<p style="font-size: 0.85em; color: #666; text-align: right; margin-top: 4px; font-style: italic;">All SWUFE courses are taught exclusively in English.</p>
