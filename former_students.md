@@ -24,21 +24,13 @@ td, th {
    border: none!important;
 }
 table {
-    table-layout: fixed;
-    width: 100%;
+    table-layout: fixed !important;
+    width: 100% !important;
 }
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 18%;
-}
-table th:nth-of-type(3) {
-    width: 33%;
-}
-table th:nth-of-type(4) {
-    width: 39%;
-}
+table th:nth-of-type(1), table td:nth-of-type(1) { width: 10%; min-width: 10%; max-width: 10%; }
+table th:nth-of-type(2), table td:nth-of-type(2) { width: 18%; min-width: 18%; max-width: 18%; }
+table th:nth-of-type(3), table td:nth-of-type(3) { width: 33%; min-width: 33%; max-width: 33%; }
+table th:nth-of-type(4), table td:nth-of-type(4) { width: 39%; min-width: 39%; max-width: 39%; }
 @media screen and (max-width: 600px) {
     table th, table td { word-break: break-word; font-size: 0.88em; padding: 6px 6px; }
 }
