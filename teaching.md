@@ -9,6 +9,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table { width: 100%; margin: 15px 0; border-collapse: collapse; }
 .teaching-table th, .teaching-table td { border: none !important; padding: 8px 12px; text-align: left; vertical-align: top; }
 .teaching-table thead th { border-bottom: 1px solid #cccccc !important; font-weight: bold; }
+.teaching-table tbody tr:last-child td { border-bottom: 1px solid #cccccc !important; }
 .teaching-table tr.tamu { background-color: #ffffff; }
 .teaching-table tr.swufe { background-color: #f0f0f0; }
 .teaching-table th:nth-of-type(1) { width: 32%; }
