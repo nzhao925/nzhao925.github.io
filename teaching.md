@@ -21,7 +21,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 
 <table class="teaching-table">
 <thead>
-<tr><th>Course</th><th>Level</th><th>Institution</th><th>Year (Semester)</th></tr>
+<tr><th>Course</th><th>Level</th><th>Institution (Department)</th><th>Year (Semester)</th></tr>
 </thead>
 <tbody>
 <tr class="tamu">
@@ -33,13 +33,13 @@ description: quantitative methods in empirical analysis, data science, and labor
 </tbody>
 </table>
 
----
+<hr style="margin: 50px 0;">
 
 ## Previous Teaching
 
 <table class="teaching-table">
 <thead>
-<tr><th>Course</th><th>Level</th><th>Institution</th><th>Year (Semester)</th></tr>
+<tr><th>Course</th><th>Level</th><th>Institution (Department)</th><th>Year (Semester)</th></tr>
 </thead>
 <tbody>
 <tr class="swufe">
