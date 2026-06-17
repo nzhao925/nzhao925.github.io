@@ -26,6 +26,10 @@ td, th {
 </style>
 
 <style>
+table {
+    table-layout: fixed;
+    width: 100%;
+}
 table th:first-of-type {
     width: 10%;
 }
