@@ -46,7 +46,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 </thead>
 <tbody>
 <tr class="tamu">
-  <td>Marketing Research | [<a href="https://scheduler.zoom.us/zhao-naibao/mktg323-office-hours" target="_blank">scheduler</a>] |</code></td>
+  <td>Marketing Research <code>| [<a href="https://scheduler.zoom.us/zhao-naibao/mktg323-office-hours" target="_blank">scheduler</a>] |</code></td>
   <td>B.A. core</td>
   <td>TAMU (Marketing)</td>
   <td><code>2026F</code></td>
