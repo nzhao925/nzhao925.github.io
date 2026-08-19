@@ -27,18 +27,16 @@ tr.y-first td { padding-top: 12px; }
 </style>
 
 <nav class="fs-sidenav" aria-label="Former students sections">
-  <div class="fs-sidenav-title">Former students</div>
+  <div class="fs-sidenav-title"><a href="/former_students">Former students</a></div>
   <ul>
-    <li><a href="/former_students">Overview</a></li>
     <li><a href="/former_students/graduate">Graduate Advising</a></li>
     <li class="active"><a href="/former_students/undergraduate">Undergraduate Advising</a></li>
   </ul>
 </nav>
 
 <div class="fs-mobile-nav">
-  <a href="/former_students">← Overview</a>
-  <a href="/former_students/graduate">Graduate</a>
-  <a href="/former_students/undergraduate" class="active">Undergraduate</a>
+  <a href="/former_students/graduate">Graduate Advising</a>
+  <a href="/former_students/undergraduate" class="active">Undergraduate Advising</a>
 </div>
 
 ## Undergraduate Advising

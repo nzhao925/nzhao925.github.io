@@ -6,23 +6,21 @@ description: teaching philosophy, student notes, and advising records.
 ---
 
 <nav class="fs-sidenav" aria-label="Former students sections">
-  <div class="fs-sidenav-title">Former students</div>
+  <div class="fs-sidenav-title"><a href="/former_students">Former students</a></div>
   <ul>
-    <li class="active"><a href="/former_students">Overview</a></li>
     <li><a href="/former_students/graduate">Graduate Advising</a></li>
     <li><a href="/former_students/undergraduate">Undergraduate Advising</a></li>
   </ul>
 </nav>
 
 <div class="fs-mobile-nav">
-  <a href="/former_students" class="active">Overview</a>
-  <a href="/former_students/graduate">Graduate</a>
-  <a href="/former_students/undergraduate">Undergraduate</a>
+  <a href="/former_students/graduate">Graduate Advising</a>
+  <a href="/former_students/undergraduate">Undergraduate Advising</a>
 </div>
 
 <div class="fs-hero">
   <blockquote id="fs-quote">
-    <span id="fs-quote-text">Students don't care how much you know until they know how much you care.</span>
+    &ldquo;<span id="fs-quote-text">Students don't care how much you know until they know how much you care.</span>&rdquo;
     <cite id="fs-quote-cite">— John C. Maxwell</cite>
   </blockquote>
 </div>
@@ -45,6 +43,7 @@ description: teaching philosophy, student notes, and advising records.
       </div>
       <div class="fs-slide-text">
         <h4>A note from a student — English translation</h4>
+
         <p>To Bao ge,</p>
         <p>How lucky I was to meet you this semester!</p>
         <p>Although my exam may not have gone as well as I'd hoped, I could feel that I gained a lot — I've developed an initial understanding of econometrics and built a certain framework. I really like your teaching style: not just constrained by exams, but <em>intuitively</em> letting us truly understand the meaning of every concept.</p>
@@ -56,10 +55,10 @@ description: teaching philosophy, student notes, and advising records.
     <!-- Slide 3: comment 2 (Wu Junqing) -->
     <div class="fs-slide">
       <div class="fs-slide-image">
-        <img src="/comment2.PNG" alt="Message from Wu Junqing" loading="lazy">
+        <img src="/comment2.PNG" alt="Note from a student" loading="lazy">
       </div>
       <div class="fs-slide-text">
-        <h4>Wu, Junqing — RIEM Class of 2019 · English translation</h4>
+        <h4>A note from a student — English translation</h4>
         <p>Bao ge, the semester is over — thank you so much for everything you've done for us! You are one of the teachers I've been luckiest to meet at SWUFE. Although I'm not among the top students in class, I'm still deeply grateful. You've influenced me in so many ways — perhaps without even realizing it — in academics, in research, in future planning, in how to treat people. Even in one short semester, I could feel your seriousness, humility, sincerity, and quiet confidence. A true "treasure teacher" of SWUFE.</p>
         <p>I remember one evening you shared your past experiences with the class — your undergraduate grades, your friends' journeys. It might have been unintentional, but it had a very deep impact on me. My freshman year didn't go well, especially in math — I failed a course right after starting university. For a long time I felt down and inferior, thinking my GPA was too low, and this became a wound that was hard to heal. I even became reluctant to socialize, afraid of being looked down on. I felt lost, not knowing how to face a college experience where I'd already lost at the starting line. Slowly I got back up — my college life felt like it truly began in sophomore year.</p>
         <p>Hearing what you said that evening, I suddenly felt that life isn't so easily defined — the future still holds many possibilities. I shouldn't take one past mistake too seriously. Instead, I should move forward with spirit and humility.</p>
@@ -71,10 +70,10 @@ description: teaching philosophy, student notes, and advising records.
     <!-- Slide 4: comment 3 (Chen Boyuan, now MS at Boston University) -->
     <div class="fs-slide">
       <div class="fs-slide-image">
-        <img src="/comment3.jpg" alt="Message from Chen Boyuan" loading="lazy">
+        <img src="/comment3.jpg" alt="Note from a student" loading="lazy">
       </div>
       <div class="fs-slide-text">
-        <h4>Chen, Boyuan — RIEM Class of 2019 · English translation</h4>
+        <h4>A note from a student — English translation</h4>
         <p>Bao ge, now that the final exam is over, I want to sincerely say thank you for everything you did for us this semester. You are not just a very, very good researcher, but also a very, very good teacher! In my two years at SWUFE, you are one of the few teachers I've felt truly nurtured students as if they were your own children — someone I genuinely respect.</p>
         <p>I may forget some econometrics questions in the future, but I'll never forget you streaming live before the exam, answering our questions late into the night. I'm not a naturally gifted student, and my learning ability isn't strong, but you tolerated me asking simple, low-value questions and patiently answered them one by one. I'm really, really moved and grateful.</p>
         <p>You also let me feel some of the beauty of econometrics — you made me genuinely interested in the topic and willing to put in effort to study and think about it. I may forget some technical knowledge over time, but I won't forget that you taught us to look for the <em>intuition</em> and <em>motivation</em> behind every theory, to develop real business sense, and to face life actively.</p>
@@ -86,11 +85,11 @@ description: teaching philosophy, student notes, and advising records.
     <!-- Slide 5: comment 4 (Zeng Qiguo, went on to Birmingham) -->
     <div class="fs-slide">
       <div class="fs-slide-image">
-        <img src="/comment4.jpg" alt="Message from Zeng Qiguo" loading="lazy">
+        <img src="/comment4.jpg" alt="Note from a student" loading="lazy">
       </div>
       <div class="fs-slide-text">
-        <h4>Zeng, Qiguo — RIEM Class of 2019 · English translation</h4>
-        <p>Good evening Bao ge, this is Zeng Qiguo. I meant to message you right after the exam, but I was busy writing a paper — sorry for the delay!</p>
+        <h4>A note from a student — English translation</h4>
+        <p>Good evening Bao ge! I meant to message you right after the exam, but I was busy writing a paper — sorry for the delay!</p>
         <p>I'm really happy I got to take your class this semester. You often felt you hadn't explained things clearly, but honestly the fault was ours — I'm sorry we made you spend so much time explaining the same things again and again. You were incredibly patient — sometimes we felt embarrassed to keep asking 😬.</p>
         <p>I love your teaching style and analytical approach — clear and intuitive. We joked that we were lucky to have you and Prof. Chen teaching us; it saved us a huge amount of reading time.</p>
         <p>Next semester I'll be leaving for Birmingham, so the next time I see you might not be until senior graduation. So I wanted to tell you now, while you probably still remember me — we really are grateful for you teaching us this semester. My exam still didn't go well, but I really feel I learned a lot!</p>
@@ -150,7 +149,7 @@ description: teaching philosophy, student notes, and advising records.
   var n = slides.length;
   var idx = 0;
   var timer = null;
-  var INTERVAL = 6000;
+  var INTERVAL = 10000;
 
   // Build dots
   var dotButtons = [];

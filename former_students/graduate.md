@@ -24,18 +24,16 @@ table th:nth-of-type(4) { width: 44%; }
 </style>
 
 <nav class="fs-sidenav" aria-label="Former students sections">
-  <div class="fs-sidenav-title">Former students</div>
+  <div class="fs-sidenav-title"><a href="/former_students">Former students</a></div>
   <ul>
-    <li><a href="/former_students">Overview</a></li>
     <li class="active"><a href="/former_students/graduate">Graduate Advising</a></li>
     <li><a href="/former_students/undergraduate">Undergraduate Advising</a></li>
   </ul>
 </nav>
 
 <div class="fs-mobile-nav">
-  <a href="/former_students">← Overview</a>
-  <a href="/former_students/graduate" class="active">Graduate</a>
-  <a href="/former_students/undergraduate">Undergraduate</a>
+  <a href="/former_students/graduate" class="active">Graduate Advising</a>
+  <a href="/former_students/undergraduate">Undergraduate Advising</a>
 </div>
 
 ## Graduate Advising
