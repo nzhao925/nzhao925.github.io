@@ -223,8 +223,13 @@
   box-shadow: 0 2px 10px rgba(0,0,0,0.12);
 }
 .fs-slide.fs-slide-photo .fs-slide-image img {
-  max-height: 440px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 640px;
+  aspect-ratio: 4 / 3;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+  max-height: none;
 }
 .fs-slide-text {
   font-size: 0.88em;
