@@ -20,17 +20,18 @@
   letter-spacing: 0.08em;
   font-size: 0.72em;
   font-weight: 600;
-  margin: 0 0 12px 0;
+  margin: 0 0 4px 0;
   position: relative;
 }
 .fs-sidenav-title a {
   color: #999;
   text-decoration: none;
   display: block;
-  padding: 3px 0 3px 16px;
+  padding: 1px 0 1px 16px;
   border-left: 3px solid transparent;
   margin-left: -19px;
   transition: color 0.15s;
+  line-height: 1.3;
 }
 .fs-sidenav-title a:hover {
   color: darkslateblue;
@@ -55,10 +56,11 @@
   color: #666;
   text-decoration: none;
   display: block;
-  padding: 3px 0 3px 16px;
+  padding: 1px 0 1px 16px;
   transition: color 0.15s;
   border-left: 3px solid transparent;
   margin-left: -19px;
+  line-height: 1.3;
 }
 .fs-sidenav ul a:hover {
   color: darkslateblue;
@@ -110,8 +112,9 @@
 /* ---------- Landing hero (rotating quote) ---------- */
 .fs-hero {
   text-align: center;
-  margin: 8px 0 12px;
-  min-height: 110px;
+  margin: 0 0 2px;
+  padding: 4px 0;
+  min-height: 78px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -144,7 +147,7 @@
 /* ---------- Image carousel ---------- */
 .fs-carousel {
   position: relative;
-  margin: 8px 0 20px;
+  margin: 0 0 12px;
   border-radius: 8px;
   overflow: hidden;
   background: #fafafa;
@@ -161,30 +164,31 @@
   display: grid;
   grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.3fr);
   gap: 24px;
-  padding: 16px 56px 36px;
+  padding: 12px 40px 32px;
   align-items: start;
 }
 .fs-slide.fs-slide-photo {
   grid-template-columns: 1fr;
-  padding: 16px 56px 36px;
+  padding: 6px 6px 32px;
 }
 .fs-slide-image {
   text-align: center;
 }
 .fs-slide-image img {
   max-width: 100%;
-  max-height: 380px;
+  max-height: 340px;
   border-radius: 6px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.12);
 }
 .fs-slide.fs-slide-photo .fs-slide-image img {
-  max-height: 420px;
+  max-height: 480px;
+  max-width: 100%;
 }
 .fs-slide-text {
   font-size: 0.88em;
   line-height: 1.5;
   color: #333;
-  max-height: 380px;
+  max-height: 340px;
   overflow-y: auto;
   padding-right: 6px;
 }
