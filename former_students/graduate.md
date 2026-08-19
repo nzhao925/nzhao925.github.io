@@ -31,9 +31,14 @@ table th:nth-of-type(4) { width: 44%; }
   </ul>
 </nav>
 
-<div class="fs-mobile-nav">
-  <a href="/former_students/graduate" class="active">Graduate Advising</a>
-  <a href="/former_students/undergraduate">Undergraduate Advising</a>
+<div class="fs-mobile-nav" id="fs-mnav">
+  <button class="fs-mobile-toggle" type="button" aria-label="Open advising menu" aria-expanded="false" onclick="var n=this.parentNode;var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o?'true':'false');">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="fs-mobile-menu">
+    <a href="/former_students/graduate" class="active">Graduate Advising</a>
+    <a href="/former_students/undergraduate">Undergraduate Advising</a>
+  </div>
 </div>
 
 ## Graduate Advising

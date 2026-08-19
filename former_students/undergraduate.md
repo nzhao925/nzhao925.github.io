@@ -34,9 +34,14 @@ tr.y-first td { padding-top: 12px; }
   </ul>
 </nav>
 
-<div class="fs-mobile-nav">
-  <a href="/former_students/graduate">Graduate Advising</a>
-  <a href="/former_students/undergraduate" class="active">Undergraduate Advising</a>
+<div class="fs-mobile-nav" id="fs-mnav">
+  <button class="fs-mobile-toggle" type="button" aria-label="Open advising menu" aria-expanded="false" onclick="var n=this.parentNode;var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o?'true':'false');">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="fs-mobile-menu">
+    <a href="/former_students/graduate">Graduate Advising</a>
+    <a href="/former_students/undergraduate" class="active">Undergraduate Advising</a>
+  </div>
 </div>
 
 ## Undergraduate Advising
