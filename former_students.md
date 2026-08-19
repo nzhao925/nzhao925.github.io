@@ -80,11 +80,11 @@ description: teaching philosophy, student notes, and advising records.
       </div>
     </div>
 
-    <!-- Slide 5: group photo — UK visit -->
+    <!-- Slide 5: group photo — Munich / Boston / LA visit -->
     <div class="fs-slide fs-slide-photo">
       <div class="fs-slide-image">
-        <img src="/group3.jpg" alt="Group photo with a visiting former student" loading="lazy">
-        <div class="fs-slide-caption">A former student visiting from the UK.</div>
+        <img src="/group3.jpg" alt="Group photo with visiting former students" loading="lazy">
+        <div class="fs-slide-caption">Former students visiting from Munich, Boston, and LA.</div>
       </div>
     </div>
 
@@ -103,11 +103,11 @@ description: teaching philosophy, student notes, and advising records.
       </div>
     </div>
 
-    <!-- Slide 7: group photo — Munich / Boston / LA visit -->
+    <!-- Slide 7: group photo — UK visit -->
     <div class="fs-slide fs-slide-photo">
       <div class="fs-slide-image">
-        <img src="/group4.jpg" alt="Group photo with visiting former students" loading="lazy">
-        <div class="fs-slide-caption">Former students visiting from Munich, Boston, and LA.</div>
+        <img src="/group4.jpg" alt="Group photo with a visiting former student" loading="lazy">
+        <div class="fs-slide-caption">A former student visiting from the UK.</div>
       </div>
     </div>
 
