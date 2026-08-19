@@ -107,7 +107,7 @@ description: teaching philosophy, student notes, and advising records.
     <div class="fs-slide fs-slide-photo">
       <div class="fs-slide-image">
         <img src="/group4.jpg" alt="Group photo with a visiting former student" loading="lazy">
-        <div class="fs-slide-caption">A former student visiting from the UK.</div>
+        <div class="fs-slide-caption">A former student visiting from London.</div>
       </div>
     </div>
 
