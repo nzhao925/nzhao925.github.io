@@ -229,29 +229,34 @@ description: teaching philosophy, student notes, and advising records.
     }
   });
 
-  function startTimer() { timer = setInterval(next, INTERVAL); }
   function stopTimer() { if (timer) { clearInterval(timer); timer = null; } }
-  function resetTimer() { stopTimer(); startTimer(); }
+  function startTimer() { stopTimer(); timer = setInterval(next, INTERVAL); }
+  function resetTimer() { startTimer(); }
 
   prevBtn.addEventListener('click', function () { prev(); resetTimer(); });
   nextBtn.addEventListener('click', function () { next(); resetTimer(); });
 
-  // Pause on hover / touch
+  // Pause on hover
   carousel.addEventListener('mouseenter', stopTimer);
   carousel.addEventListener('mouseleave', startTimer);
-  carousel.addEventListener('touchstart', stopTimer, { passive: true });
 
-  // Basic swipe support
+  // Touch: pause on touch, swipe to navigate, restart after touch ends
   var touchStartX = null;
   carousel.addEventListener('touchstart', function (e) {
+    stopTimer();
     touchStartX = e.touches[0].clientX;
   }, { passive: true });
   carousel.addEventListener('touchend', function (e) {
-    if (touchStartX === null) return;
-    var dx = (e.changedTouches[0].clientX - touchStartX);
-    if (Math.abs(dx) > 40) { dx < 0 ? next() : prev(); resetTimer(); }
+    if (touchStartX !== null) {
+      var dx = (e.changedTouches[0].clientX - touchStartX);
+      if (Math.abs(dx) > 40) { dx < 0 ? next() : prev(); }
+      touchStartX = null;
+    }
+    startTimer();
+  });
+  carousel.addEventListener('touchcancel', function () {
     touchStartX = null;
-    setTimeout(startTimer, 100);
+    startTimer();
   });
 
   startTimer();
