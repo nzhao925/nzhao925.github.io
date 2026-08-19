@@ -59,11 +59,10 @@ description: teaching philosophy, student notes, and advising records.
       </div>
       <div class="fs-slide-text">
         <h4>A note from a student — English translation</h4>
-        <p>Bao ge, the semester is over — thank you so much for everything you've done for us! You are one of the teachers I've been luckiest to meet at SWUFE. Although I'm not among the top students in class, I'm still deeply grateful. You've influenced me in so many ways — perhaps without even realizing it — in academics, in research, in future planning, in how to treat people. Even in one short semester, I could feel your seriousness, humility, sincerity, and quiet confidence. A true "treasure teacher" of SWUFE.</p>
-        <p>I remember one evening you shared your past experiences with the class — your undergraduate grades, your friends' journeys. It might have been unintentional, but it had a very deep impact on me. My freshman year didn't go well, especially in math — I failed a course right after starting university. For a long time I felt down and inferior, thinking my GPA was too low, and this became a wound that was hard to heal. I even became reluctant to socialize, afraid of being looked down on. I felt lost, not knowing how to face a college experience where I'd already lost at the starting line. Slowly I got back up — my college life felt like it truly began in sophomore year.</p>
-        <p>Hearing what you said that evening, I suddenly felt that life isn't so easily defined — the future still holds many possibilities. I shouldn't take one past mistake too seriously. Instead, I should move forward with spirit and humility.</p>
-        <p>I've edited this message many times but still don't know how to fully express my thanks. I hope one day I'll have the chance to take your class again, or to receive your academic guidance. If you ever need help with anything in your research, feel free to call on me.</p>
-        <p>Finally, wishing you a pleasant vacation, good health for you and your family, and all the best in your work ahead!</p>
+        <p>The semester is over — thank you so much for everything. You are one of the luckiest teachers I've met at SWUFE. Even in one short semester, I could feel your seriousness, humility, sincerity, and quiet confidence — a true "treasure teacher."</p>
+        <p>One evening you shared your undergraduate story with the class — your grades, your friends' journeys. It might have been offhand, but it changed me deeply. My freshman year didn't go well, especially in math, and for a long time I felt inferior and stopped socializing, afraid of being looked down on.</p>
+        <p>Hearing you that night, I suddenly felt life isn't so easily defined — the future still holds many possibilities. I shouldn't take one past mistake too seriously; I should move forward with spirit and humility.</p>
+        <p>Thank you for teaching me more than econometrics.</p>
       </div>
     </div>
 
@@ -74,11 +73,10 @@ description: teaching philosophy, student notes, and advising records.
       </div>
       <div class="fs-slide-text">
         <h4>A note from a student — English translation</h4>
-        <p>Bao ge, now that the final exam is over, I want to sincerely say thank you for everything you did for us this semester. You are not just a very, very good researcher, but also a very, very good teacher! In my two years at SWUFE, you are one of the few teachers I've felt truly nurtured students as if they were your own children — someone I genuinely respect.</p>
-        <p>I may forget some econometrics questions in the future, but I'll never forget you streaming live before the exam, answering our questions late into the night. I'm not a naturally gifted student, and my learning ability isn't strong, but you tolerated me asking simple, low-value questions and patiently answered them one by one. I'm really, really moved and grateful.</p>
-        <p>You also let me feel some of the beauty of econometrics — you made me genuinely interested in the topic and willing to put in effort to study and think about it. I may forget some technical knowledge over time, but I won't forget that you taught us to look for the <em>intuition</em> and <em>motivation</em> behind every theory, to develop real business sense, and to face life actively.</p>
-        <p>I feel the students of Class 2019 Econ &amp; Mgmt are lucky — we had an econometrics teacher who is top-notch in the field and also a truly kind person. A thousand words cannot express my purest gratitude, and this has nothing to do with grades. No matter how my future unfolds, I'll never forget this unforgettable semester of studying econometrics with you.</p>
-        <p>Thank you once again! If you ever come to Chaozhou or Shantou, please look me up — the tea is on me!</p>
+        <p>Now that the final exam is over, I want to sincerely thank you. You are not just a very good researcher, but also a very good teacher — one of the few I've felt truly nurtured students as if they were your own children, and someone I genuinely respect.</p>
+        <p>I may forget some econometrics questions in the future, but I'll never forget you streaming live before the exam, answering our questions late into the night. I'm not a naturally gifted student, but you tolerated my simple questions and patiently answered them one by one.</p>
+        <p>You showed me the beauty of econometrics — you taught us to look for the <em>intuition</em> and <em>motivation</em> behind every theory, and to face life actively. A thousand words cannot express my gratitude, and this has nothing to do with grades.</p>
+        <p>Thank you again for this unforgettable semester!</p>
       </div>
     </div>
 
