@@ -43,6 +43,19 @@ table th:nth-of-type(4) { width: 44%; }
 
 ## Graduate Advising
 
+Note: An asterisk indicates that I served as a dissertation advisor.
+
+### PhDs @ RIEM, SWUFE
+
+<table>
+<thead>
+<tr><th>Class of</th><th>Name</th><th>Initial Placement</th><th>Position</th></tr>
+</thead>
+<tbody>
+<tr><td>2024</td><td>Wang, Yuting</td><td>Nanjing Audit University</td><td>Assistant Professor of Finance</td></tr>
+</tbody>
+</table>
+
 ### Masters @ RIEM, SWUFE
 
 <table>
@@ -50,6 +63,6 @@ table th:nth-of-type(4) { width: 44%; }
 <tr><th>Class of</th><th>Name</th><th>Initial Placement</th><th>Current Placement</th></tr>
 </thead>
 <tbody>
-<tr><td>2021</td><td>Wang, Ruoheng</td><td>KPMG</td><td>KPMG</td></tr>
+<tr><td>2021</td><td>Wang, Ruoheng*</td><td>KPMG</td><td>KPMG</td></tr>
 </tbody>
 </table>
