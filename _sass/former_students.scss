@@ -19,41 +19,48 @@
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-size: 0.72em;
-  color: #999;
-  margin-bottom: 8px;
   font-weight: 600;
+  margin: 0 0 12px 0;
+  position: relative;
 }
 .fs-sidenav-title a {
-  color: inherit;
+  color: #999;
   text-decoration: none;
+  display: block;
+  padding: 3px 0 3px 16px;
+  border-left: 3px solid transparent;
+  margin-left: -19px;
   transition: color 0.15s;
 }
 .fs-sidenav-title a:hover {
   color: darkslateblue;
   text-decoration: none;
 }
+.fs-sidenav-title.active a {
+  color: darkslateblue;
+  border-left-color: darkslateblue;
+}
 .fs-sidenav ul {
   list-style: none !important;
   padding: 0 !important;
-  margin: 0;
+  margin: 0 !important;
 }
 .fs-sidenav li {
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
   position: relative;
 }
 .fs-sidenav li::before { content: none !important; }
-.fs-sidenav a {
+.fs-sidenav ul a {
   color: #666;
   text-decoration: none;
   display: block;
-  padding: 2px 0 2px 4px;
+  padding: 3px 0 3px 16px;
   transition: color 0.15s;
   border-left: 3px solid transparent;
   margin-left: -19px;
-  padding-left: 16px;
 }
-.fs-sidenav a:hover {
+.fs-sidenav ul a:hover {
   color: darkslateblue;
   text-decoration: none;
 }

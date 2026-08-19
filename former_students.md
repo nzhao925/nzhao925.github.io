@@ -6,7 +6,7 @@ description: teaching philosophy, student notes, and advising records.
 ---
 
 <nav class="fs-sidenav" aria-label="Former students sections">
-  <div class="fs-sidenav-title"><a href="/former_students">Former students</a></div>
+  <div class="fs-sidenav-title active"><a href="/former_students">Former students</a></div>
   <ul>
     <li><a href="/former_students/graduate">Graduate Advising</a></li>
     <li><a href="/former_students/undergraduate">Undergraduate Advising</a></li>
