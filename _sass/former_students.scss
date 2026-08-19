@@ -1,0 +1,251 @@
+/* ================================================================
+   Former Students pages — shared styles
+   (right sidebar, mobile buttons, hero, image carousel)
+   ================================================================ */
+
+/* ---------- Right sidebar (desktop only) ---------- */
+.fs-sidenav {
+  position: fixed;
+  top: 130px;
+  right: calc((100vw - #{$max-width}) / 2 - 210px);
+  width: 190px;
+  border-left: 2px solid #eaeaea;
+  padding: 4px 0 4px 16px;
+  font-size: 0.85em;
+  line-height: 1.5;
+  z-index: 50;
+}
+.fs-sidenav-title {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.72em;
+  color: #999;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+.fs-sidenav ul {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0;
+}
+.fs-sidenav li {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.fs-sidenav li::before { content: none !important; }
+.fs-sidenav a {
+  color: #666;
+  text-decoration: none;
+  display: block;
+  padding: 6px 0 6px 4px;
+  transition: color 0.15s;
+  border-left: 3px solid transparent;
+  margin-left: -19px;
+  padding-left: 16px;
+}
+.fs-sidenav a:hover {
+  color: darkslateblue;
+  text-decoration: none;
+}
+.fs-sidenav li.active a {
+  color: darkslateblue;
+  font-weight: 600;
+  border-left-color: darkslateblue;
+}
+
+/* Hide sidebar on narrow viewports */
+@media screen and (max-width: 1279px) {
+  .fs-sidenav { display: none; }
+}
+
+/* ---------- Mobile / narrow-viewport nav buttons ---------- */
+.fs-mobile-nav {
+  display: none;
+  margin: 30px 0 20px;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.fs-mobile-nav a {
+  flex: 1 1 220px;
+  padding: 14px 18px;
+  background: #f4f4f4;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  color: darkslateblue !important;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: center;
+  transition: background 0.15s;
+}
+.fs-mobile-nav a:hover {
+  background: #ebebeb;
+  text-decoration: none;
+}
+.fs-mobile-nav a.active {
+  background: darkslateblue;
+  color: #ffffff !important;
+  border-color: darkslateblue;
+}
+@media screen and (max-width: 1279px) {
+  .fs-mobile-nav { display: flex; }
+}
+
+/* ---------- Landing hero (rotating quote) ---------- */
+.fs-hero {
+  text-align: center;
+  margin: 30px 0 20px;
+  min-height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fs-hero blockquote {
+  border: none !important;
+  border-left: none !important;
+  font-style: italic;
+  font-size: 1.15em;
+  line-height: 1.55;
+  color: #333;
+  padding: 0 20px !important;
+  margin: 0 auto !important;
+  max-width: 720px;
+  transition: opacity 0.6s ease;
+}
+.fs-hero blockquote.fade {
+  opacity: 0;
+}
+.fs-hero cite {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.82em;
+  color: #888;
+  font-style: normal;
+}
+
+/* ---------- Image carousel ---------- */
+.fs-carousel {
+  position: relative;
+  margin: 20px 0 30px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fafafa;
+  border: 1px solid #eee;
+}
+.fs-carousel-track {
+  display: flex;
+  transition: transform 0.6s ease;
+  will-change: transform;
+}
+.fs-slide {
+  min-width: 100%;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+  gap: 24px;
+  padding: 24px 60px 44px;
+  align-items: start;
+}
+.fs-slide.fs-slide-photo {
+  grid-template-columns: 1fr;
+  padding: 24px 60px 44px;
+}
+.fs-slide-image {
+  text-align: center;
+}
+.fs-slide-image img {
+  max-width: 100%;
+  max-height: 480px;
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.12);
+}
+.fs-slide.fs-slide-photo .fs-slide-image img {
+  max-height: 520px;
+}
+.fs-slide-text {
+  font-size: 0.9em;
+  line-height: 1.55;
+  color: #333;
+  max-height: 480px;
+  overflow-y: auto;
+  padding-right: 6px;
+}
+.fs-slide-text h4 {
+  margin: 0 0 10px;
+  color: darkslateblue;
+  font-size: 1em;
+  font-weight: 600;
+}
+.fs-slide-text p {
+  margin: 0 0 10px;
+}
+.fs-slide-caption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 12px;
+  font-style: italic;
+}
+
+/* Nav dots */
+.fs-carousel-dots {
+  position: absolute;
+  bottom: 14px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 3;
+}
+.fs-carousel-dots button {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: rgba(0,0,0,0.25);
+  border: none;
+  margin: 0 4px;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s;
+}
+.fs-carousel-dots button.active {
+  background: darkslateblue;
+}
+.fs-carousel-dots button:hover {
+  background: rgba(0,0,0,0.5);
+}
+
+/* Nav arrows */
+.fs-carousel-arrow {
+  position: absolute;
+  top: 45%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,0.9);
+  border: none;
+  width: 38px; height: 38px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 1;
+  color: #333;
+  z-index: 3;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.18);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fs-carousel-arrow.prev { left: 12px; }
+.fs-carousel-arrow.next { right: 12px; }
+.fs-carousel-arrow:hover { background: #ffffff; }
+
+/* Mobile — stack image above text */
+@media screen and (max-width: 750px) {
+  .fs-slide {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 18px 14px 36px;
+  }
+  .fs-slide-image img { max-height: 340px; }
+  .fs-slide-text { max-height: 300px; font-size: 0.85em; }
+  .fs-carousel-arrow { width: 32px; height: 32px; font-size: 16px; }
+  .fs-carousel-arrow.prev { left: 6px; }
+  .fs-carousel-arrow.next { right: 6px; }
+}
