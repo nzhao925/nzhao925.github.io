@@ -57,7 +57,15 @@ description: teaching philosophy, student notes, and advising records.
       </div>
     </div>
 
-    <!-- Slide 3: comment 2 (Wu Junqing) -->
+    <!-- Slide 3: group photo — students at RIEM -->
+    <div class="fs-slide fs-slide-photo">
+      <div class="fs-slide-image">
+        <img src="/group2.jpg" alt="Group photo with students" loading="lazy">
+        <div class="fs-slide-caption">With my students at RIEM, SWUFE.</div>
+      </div>
+    </div>
+
+    <!-- Slide 4: comment 2 (Wu Junqing) -->
     <div class="fs-slide">
       <div class="fs-slide-image">
         <img src="/comment2.PNG" alt="Note from a student" loading="lazy">
@@ -72,7 +80,15 @@ description: teaching philosophy, student notes, and advising records.
       </div>
     </div>
 
-    <!-- Slide 4: comment 3 (Chen Boyuan, now MS at Boston University) -->
+    <!-- Slide 5: group photo — UK visit -->
+    <div class="fs-slide fs-slide-photo">
+      <div class="fs-slide-image">
+        <img src="/group3.jpg" alt="Group photo with a visiting former student" loading="lazy">
+        <div class="fs-slide-caption">A former student visiting from the UK.</div>
+      </div>
+    </div>
+
+    <!-- Slide 6: comment 3 (Chen Boyuan, now MS at Boston University) -->
     <div class="fs-slide">
       <div class="fs-slide-image">
         <img src="/comment3.jpg" alt="Note from a student" loading="lazy">
@@ -87,7 +103,15 @@ description: teaching philosophy, student notes, and advising records.
       </div>
     </div>
 
-    <!-- Slide 5: comment 4 (Zeng Qiguo, went on to Birmingham) -->
+    <!-- Slide 7: group photo — Munich / Boston / LA visit -->
+    <div class="fs-slide fs-slide-photo">
+      <div class="fs-slide-image">
+        <img src="/group4.jpg" alt="Group photo with visiting former students" loading="lazy">
+        <div class="fs-slide-caption">Former students visiting from Munich, Boston, and LA.</div>
+      </div>
+    </div>
+
+    <!-- Slide 8: comment 4 (Zeng Qiguo, went on to Birmingham) -->
     <div class="fs-slide">
       <div class="fs-slide-image">
         <img src="/comment4.jpg" alt="Note from a student" loading="lazy">
@@ -99,14 +123,6 @@ description: teaching philosophy, student notes, and advising records.
         <p>I love your teaching style and analytical approach — clear and intuitive. We joked that we were lucky to have you and Prof. Chen teaching us; it saved us a huge amount of reading time.</p>
         <p>Next semester I'll be leaving for Birmingham, so the next time I see you might not be until senior graduation. So I wanted to tell you now, while you probably still remember me — we really are grateful for you teaching us this semester. My exam still didn't go well, but I really feel I learned a lot!</p>
         <p>Finally, wishing you a happy vacation, and all the best in both work and life going forward!</p>
-      </div>
-    </div>
-
-    <!-- Slide 6: group photo -->
-    <div class="fs-slide fs-slide-photo">
-      <div class="fs-slide-image">
-        <img src="/group2.jpg" alt="Group photo with students" loading="lazy">
-        <div class="fs-slide-caption">With my students at RIEM, SWUFE.</div>
       </div>
     </div>
 
@@ -156,28 +172,62 @@ description: teaching philosophy, student notes, and advising records.
   var timer = null;
   var INTERVAL = 10000;
 
-  // Build dots
+  // Append a clone of the first slide at the end so the loop can
+  // slide forward past the last real slide into the clone (which
+  // looks identical to slide 0), then snap silently back to slide 0.
+  if (n > 1) {
+    var clone = slides[0].cloneNode(true);
+    clone.setAttribute('aria-hidden', 'true');
+    track.appendChild(clone);
+  }
+
+  // Build dots (only for real slides, not the clone)
   var dotButtons = [];
   for (var i = 0; i < n; i++) {
     (function (i) {
       var b = document.createElement('button');
       b.setAttribute('aria-label', 'Go to slide ' + (i + 1));
       if (i === 0) b.classList.add('active');
-      b.addEventListener('click', function () { go(i); resetTimer(); });
+      b.addEventListener('click', function () { go(i, true); resetTimer(); });
       dotsBox.appendChild(b);
       dotButtons.push(b);
     })(i);
   }
 
-  function go(i) {
-    idx = (i + n) % n;
+  function go(i, animate) {
+    idx = i;
+    track.style.transition = (animate === false) ? 'none' : 'transform 0.6s ease';
     track.style.transform = 'translateX(-' + (idx * 100) + '%)';
+    var d = ((idx % n) + n) % n;
     dotButtons.forEach(function (b, j) {
-      b.classList.toggle('active', j === idx);
+      b.classList.toggle('active', j === d);
     });
   }
-  function next() { go(idx + 1); }
-  function prev() { go(idx - 1); }
+  function next() {
+    if (idx >= n) return; // sitting on the clone, wait for the reset
+    go(idx + 1, true);
+  }
+  function prev() {
+    if (idx <= 0) {
+      // Jump instantly to the clone position (visually still slide 0),
+      // then animate backwards to the last real slide.
+      go(n, false);
+      // Force reflow so the browser registers the jump before the
+      // next transition.
+      void track.offsetWidth;
+      go(n - 1, true);
+    } else {
+      go(idx - 1, true);
+    }
+  }
+
+  // When we finish animating onto the clone, silently reset to slide 0.
+  track.addEventListener('transitionend', function (e) {
+    if (e.propertyName !== 'transform') return;
+    if (idx >= n) {
+      go(0, false);
+    }
+  });
 
   function startTimer() { timer = setInterval(next, INTERVAL); }
   function stopTimer() { if (timer) { clearInterval(timer); timer = null; } }
