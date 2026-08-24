@@ -134,8 +134,50 @@ description: teaching philosophy, student notes, and advising records.
   <div class="fs-carousel-dots" id="fs-dots"></div>
 </div>
 
+<button class="fs-music" id="fs-music" type="button" aria-label="Play background music" title="Play background music">🎵</button>
+<div class="fs-music-hint" id="fs-music-hint">Play 匆匆那年</div>
+<div class="fs-music-frame" id="fs-music-frame" aria-hidden="true"></div>
+
 <script>
 (function () {
+  /* -------- Background music toggle -------- */
+  var musicBtn = document.getElementById('fs-music');
+  var musicFrame = document.getElementById('fs-music-frame');
+  var musicHint = document.getElementById('fs-music-hint');
+  var videoId = '04cHqPMD4So';
+  var playing = false;
+
+  if (musicBtn && musicFrame) {
+    // Show a brief hint on first load so users notice the button
+    if (musicHint) {
+      setTimeout(function () { musicHint.classList.add('show'); }, 1200);
+      setTimeout(function () { musicHint.classList.remove('show'); }, 5200);
+    }
+
+    musicBtn.addEventListener('click', function () {
+      if (musicHint) musicHint.classList.remove('show');
+      if (!playing) {
+        musicFrame.innerHTML =
+          '<iframe width="1" height="1" ' +
+          'src="https://www.youtube.com/embed/' + videoId +
+          '?autoplay=1&loop=1&playlist=' + videoId +
+          '" frameborder="0" allow="autoplay" allowfullscreen></iframe>';
+        musicBtn.classList.add('playing');
+        musicBtn.textContent = '🔊';
+        musicBtn.setAttribute('aria-label', 'Stop background music');
+        musicBtn.setAttribute('title', 'Stop background music');
+        playing = true;
+      } else {
+        musicFrame.innerHTML = '';
+        musicBtn.classList.remove('playing');
+        musicBtn.textContent = '🎵';
+        musicBtn.setAttribute('aria-label', 'Play background music');
+        musicBtn.setAttribute('title', 'Play background music');
+        playing = false;
+      }
+    });
+  }
+
   /* -------- Rotating hero quote -------- */
   var quotes = [
     { text: "Students don't care how much you know until they know how much you care.", cite: "— John C. Maxwell" },
