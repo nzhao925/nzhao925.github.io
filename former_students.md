@@ -132,10 +132,11 @@ description: teaching philosophy, student notes, and advising records.
   <button class="fs-carousel-arrow next" id="fs-next" aria-label="Next slide">›</button>
 
   <div class="fs-carousel-dots" id="fs-dots"></div>
+
+  <button class="fs-music" id="fs-music" type="button" aria-label="Play background music" title="Play background music">🎵</button>
+  <div class="fs-music-hint" id="fs-music-hint">Play 匆匆那年</div>
 </div>
 
-<button class="fs-music" id="fs-music" type="button" aria-label="Play background music" title="Play background music">🎵</button>
-<div class="fs-music-hint" id="fs-music-hint">Play 匆匆那年</div>
 <div class="fs-music-frame" id="fs-music-frame" aria-hidden="true"></div>
 
 <script>
