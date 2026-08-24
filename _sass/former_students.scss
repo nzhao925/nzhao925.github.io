@@ -341,22 +341,6 @@
   bottom: 0;
   right: 0;
 }
-.fs-music-hint {
-  position: absolute;
-  bottom: 18px;
-  right: 58px;
-  background: rgba(0, 0, 0, 0.75);
-  color: #fff;
-  font-size: 0.78em;
-  padding: 5px 9px;
-  border-radius: 4px;
-  z-index: 5;
-  pointer-events: none;
-  opacity: 0;
-  transition: opacity 0.4s ease;
-  white-space: nowrap;
-}
-.fs-music-hint.show { opacity: 1; }
 
 /* Mobile — stack image above text */
 @media screen and (max-width: 750px) {
