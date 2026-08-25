@@ -136,36 +136,85 @@ description: teaching philosophy, student notes, and advising records.
   <button class="fs-music" id="fs-music" type="button" aria-label="Play background music" title="Play background music">🎵</button>
 </div>
 
-<div class="fs-music-frame" id="fs-music-frame" aria-hidden="true"></div>
+<div class="fs-music-frame" id="fs-music-frame" aria-hidden="true">
+  <div id="fs-yt-player"></div>
+</div>
 
 <script>
 (function () {
   /* -------- Background music toggle -------- */
   var musicBtn = document.getElementById('fs-music');
-  var musicFrame = document.getElementById('fs-music-frame');
   var videoId = '04cHqPMD4So';
+  var ytPlayer = null;
+  var ytReady = false;
+  var pending = false;
   var playing = false;
 
-  if (musicBtn && musicFrame) {
+  function setBtnState(isPlaying) {
+    playing = isPlaying;
+    if (isPlaying) {
+      musicBtn.classList.add('playing');
+      musicBtn.textContent = '🔊';
+      musicBtn.setAttribute('aria-label', 'Stop background music');
+      musicBtn.setAttribute('title', 'Stop background music');
+    } else {
+      musicBtn.classList.remove('playing');
+      musicBtn.textContent = '🎵';
+      musicBtn.setAttribute('aria-label', 'Play background music');
+      musicBtn.setAttribute('title', 'Play background music');
+    }
+  }
+
+  // Load YouTube IFrame API on page load so the player is ready before
+  // the user clicks — iOS Safari requires playVideo() to run synchronously
+  // inside the click handler, so async iframe creation on click gets blocked.
+  if (musicBtn && document.getElementById('fs-yt-player')) {
+    if (!window.YT) {
+      var ytTag = document.createElement('script');
+      ytTag.src = 'https://www.youtube.com/iframe_api';
+      document.head.appendChild(ytTag);
+    }
+
+    window.onYouTubeIframeAPIReady = function () {
+      ytPlayer = new YT.Player('fs-yt-player', {
+        width: '200',
+        height: '120',
+        videoId: videoId,
+        playerVars: {
+          autoplay: 0,
+          controls: 0,
+          modestbranding: 1,
+          loop: 1,
+          playlist: videoId,
+          playsinline: 1,
+          rel: 0
+        },
+        events: {
+          onReady: function () {
+            ytReady = true;
+            if (pending) { pending = false; ytPlayer.playVideo(); }
+          },
+          onStateChange: function (e) {
+            // 1 = playing, 2 = paused, 0 = ended (should auto-loop but just in case)
+            if (e.data === 1) setBtnState(true);
+            else if (e.data === 2 || e.data === 0) setBtnState(false);
+          }
+        }
+      });
+    };
+
     musicBtn.addEventListener('click', function () {
-      if (!playing) {
-        musicFrame.innerHTML =
-          '<iframe width="1" height="1" ' +
-          'src="https://www.youtube.com/embed/' + videoId +
-          '?autoplay=1&loop=1&playlist=' + videoId +
-          '" frameborder="0" allow="autoplay" allowfullscreen></iframe>';
-        musicBtn.classList.add('playing');
-        musicBtn.textContent = '🔊';
-        musicBtn.setAttribute('aria-label', 'Stop background music');
-        musicBtn.setAttribute('title', 'Stop background music');
-        playing = true;
+      if (!ytReady) {
+        // Player still loading — queue a play. iOS may still block since
+        // this fires outside the original gesture, but there's little else
+        // we can do until the API script arrives.
+        pending = true;
+        return;
+      }
+      if (playing) {
+        ytPlayer.pauseVideo();
       } else {
-        musicFrame.innerHTML = '';
-        musicBtn.classList.remove('playing');
-        musicBtn.textContent = '🎵';
-        musicBtn.setAttribute('aria-label', 'Play background music');
-        musicBtn.setAttribute('title', 'Play background music');
-        playing = false;
+        ytPlayer.playVideo();
       }
     });
   }

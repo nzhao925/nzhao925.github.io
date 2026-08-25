@@ -333,13 +333,13 @@
 }
 .fs-music-frame {
   position: fixed;
-  width: 1px;
-  height: 1px;
+  width: 220px;
+  height: 140px;
+  bottom: -400px;
+  right: 0;
   opacity: 0;
   pointer-events: none;
   overflow: hidden;
-  bottom: 0;
-  right: 0;
 }
 
 /* Mobile — stack image above text */
