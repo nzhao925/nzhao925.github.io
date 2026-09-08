@@ -16,8 +16,9 @@ title: Naibao Zhao
             </svg>
           </a>
           <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: flex-end; line-height: 0;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="-3 -3 30 30" fill="#000" style="display: block;">
-              <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+            <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="-3 -2 30 27" style="display: block;">
+              <rect x="2" y="5" width="20" height="14" rx="2" fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round"/>
+              <polyline points="3 7 12 13 21 7" fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
             </svg>
           </a>
        </div>
