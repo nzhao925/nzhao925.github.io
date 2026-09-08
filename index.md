@@ -15,7 +15,7 @@ title: Naibao Zhao
               <text x="11" y="19" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" text-anchor="middle" fill="#333">CV</text>
             </svg>
           </a>
-          <a href="mailto:naibao.zhao@gmail.com" title="Email" aria-label="Email" style="display: inline-flex; align-items: center; line-height: 0;">
+          <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: center; line-height: 0;">
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
               <rect x="3" y="5" width="18" height="14" rx="2"/>
               <polyline points="3 7 12 13 21 7"/>
