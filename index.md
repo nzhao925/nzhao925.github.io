@@ -6,10 +6,22 @@ title: Naibao Zhao
 <div class="container" style="display: flex; justify-content: space-around; margin-top: 20px; margin-bottom: 50px;">
     <div class="responsive-div2" style="display: flex; flex-direction: column; align-self: flex-start; margin-top: 74px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 12px;">
-        <div style="display: flex; gap: 10px;">
-          <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en"><img src="google_scholar_icon.png" alt="Google Scholar" style="width: 25px;"></a>
-          <a href="https://www.linkedin.com/in/naibao-zhao-92a140b7/"><img src="linkedin_icon.png" alt="LinkedIn" style="width: 25px;"></a>
-          <a href="https://twitter.com/NaibaoZhao"><img src="twitter_icon.png" alt="Twitter" style="width: 25px;"></a>
+        <div style="display: flex; gap: 10px; align-items: center;">
+          <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar"><img src="google_scholar_icon.png" alt="Google Scholar" style="width: 25px;"></a>
+          <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="display:block;">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <polyline points="14 2 14 8 20 8"/>
+              <line x1="8" y1="13" x2="16" y2="13"/>
+              <line x1="8" y1="17" x2="16" y2="17"/>
+            </svg>
+          </a>
+          <a href="mailto:naibao.zhao@gmail.com" title="Email" aria-label="Email">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="display:block;">
+              <rect x="3" y="5" width="18" height="14" rx="2"/>
+              <polyline points="3 7 12 13 21 7"/>
+            </svg>
+          </a>
        </div>
     </div>
     <div class="responsive-div">
@@ -18,11 +30,6 @@ title: Naibao Zhao
         <p>I am affiliated with <a href="https://stonecenter.uchicago.edu/people/naibao-zhao/" target="_blank"> the James M. and Cathleen D. Stone Center for Research on Wealth Inequality and Mobility</a> and <a href="https://hceconomics.uchicago.edu/people/naibao-zhao" target="_blank"> the Human Capital and Economic Opportunity (HCEO) </a> at the University of Chicago.</p> 
         <p style="margin-bottom: 25px;">Previously, I was an Associate Professor of Economics (with tenure) at the <a href="https://riem.swufe.edu.cn/" target="_blank">Research Institute of Economics and Management (RIEM)</a>, Southwestern University of Finance and Economics (SWUFE), and a Scholar-in-Residence in <a href="https://cehd.uchicago.edu/?page_id=194" target="_blank"> the Center for the Economics of Human Development (CEHD)</a>  at the University of Chicago.</p>
      <!--   <p style="margin-bottom: 30px;">My broad research field is empirical microeconomics, which integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy-relevant questions. In particular, my research covers a wide range of topics in empirical IO, labor/education, applied micro, and household finance.</p> -->
-        <h3>Contact</h3>
-            <span class="material-icons-sharp">email</span> naibao.zhao [at] gmail.com<br/>
-          <!--   <span class="material-icons-sharp">call</span> +86 (28) 8709 9030<br/> -->
-          <!--   <span class="material-icons-sharp">business</span> 503 RIEM Building, 55 Guanghuacun St., Chengdu, Sichuan 610074, China<br/> -->
-          <!--   <a href="https://riem.swufe.edu.cn/info/1201/13151.htm" target="_blank"> <span class="material-icons-sharp">launch</span> SWUFE RIEM Faculty Profile</a><br/>  -->
     </div>
 </div>
 
