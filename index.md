@@ -6,17 +6,17 @@ title: Naibao Zhao
 <div class="container" style="display: flex; justify-content: space-around; margin-top: 20px; margin-bottom: 50px;">
     <div class="responsive-div2" style="display: flex; flex-direction: column; align-self: flex-start; margin-top: 74px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 12px;">
-        <div style="display: flex; gap: 8px; align-items: flex-end; margin-top: 18px;">
-          <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar" style="display: inline-flex; align-items: flex-end; line-height: 0;"><img src="google_scholar_icon.png" alt="Google Scholar" style="height: 33px; width: auto; display: block;"></a>
-          <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV" style="display: inline-flex; align-items: flex-end; line-height: 0;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="-3 -2 30 27" style="display: block;">
-              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round"/>
-              <polyline points="14 2 14 8 20 8" fill="none" stroke="#000" stroke-width="1.6" stroke-linejoin="round"/>
+        <div style="display: flex; gap: 4px; align-items: center; margin-top: 18px;">
+          <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; line-height: 0;"><img src="google_scholar_icon.png" alt="Google Scholar" style="height: 26px; width: auto; display: block;"></a>
+          <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; line-height: 0;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" style="display: block;">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" fill="none" stroke="#000" stroke-width="1.8" stroke-linejoin="round"/>
+              <polyline points="14 2 14 8 20 8" fill="none" stroke="#000" stroke-width="1.8" stroke-linejoin="round"/>
               <text x="11" y="19" font-family="Arial, Helvetica, sans-serif" font-size="8" font-weight="700" text-anchor="middle" fill="#000">CV</text>
             </svg>
           </a>
-          <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: flex-end; line-height: 0;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 24 24" fill="#000" style="display: block;">
+          <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; line-height: 0;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="-2 -2 28 28" fill="#000" style="display: block;">
               <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
             </svg>
           </a>
