@@ -8,13 +8,7 @@ title: Naibao Zhao
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 12px;">
         <div style="display: flex; gap: 0; align-items: flex-end; justify-content: center; margin-top: 18px;">
           <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0; margin-right: -8px;"><img src="google_scholar_icon.png" alt="Google Scholar" style="height: 33px; width: auto; display: block;"></a>
-          <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="3 1 18 22" style="display: block;">
-              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" fill="none" stroke="#000" stroke-width="1.4" stroke-linejoin="round"/>
-              <polyline points="14 2 14 8 20 8" fill="none" stroke="#000" stroke-width="1.4" stroke-linejoin="round"/>
-              <text x="12" y="18" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="700" text-anchor="middle" fill="#000">CV</text>
-            </svg>
-          </a>
+          <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0;"><img src="cv_icon.png" alt="CV" style="height: 33px; width: auto; display: block;"></a>
           <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0; margin-left: -8px;">
             <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="4.5 4.5 15 15" style="display: block;">
               <rect x="5" y="5" width="14" height="14" rx="1.2" fill="none" stroke="#000" stroke-width="0.9" stroke-linejoin="round"/>
