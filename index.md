@@ -9,13 +9,7 @@ title: Naibao Zhao
         <div style="display: flex; gap: 0; align-items: flex-end; justify-content: center; margin-top: 18px;">
           <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0; margin-right: -8px;"><img src="google_scholar_icon.png" alt="Google Scholar" style="height: 33px; width: auto; display: block;"></a>
           <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0;"><img src="cv_icon.png" alt="CV" style="height: 33px; width: auto; display: block;"></a>
-          <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0; margin-left: -8px;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="4.5 4.5 15 15" style="display: block;">
-              <rect x="5" y="5" width="14" height="14" rx="1.2" fill="none" stroke="#000" stroke-width="0.9" stroke-linejoin="round"/>
-              <path d="M5 5 L12 12 L19 5" fill="none" stroke="#000" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round"/>
-              <text x="12" y="10" font-family="Arial, Helvetica, sans-serif" font-size="3.6" font-weight="700" text-anchor="middle" fill="#000">@</text>
-            </svg>
-          </a>
+          <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: flex-end; justify-content: center; width: 33px; line-height: 0; margin-left: -8px;"><img src="email_icon.png" alt="Email" style="height: 33px; width: auto; display: block;"></a>
        </div>
     </div>
     <div class="responsive-div">
