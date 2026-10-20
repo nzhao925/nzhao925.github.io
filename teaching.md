@@ -10,12 +10,8 @@ description: quantitative methods in empirical analysis, data science, and labor
 .teaching-table th, .teaching-table td { border: none !important; padding: 8px 12px; text-align: left; vertical-align: top; }
 .teaching-table thead th { border-bottom: 1px solid #cccccc !important; font-weight: bold; }
 .teaching-table tbody tr:last-child td { border-bottom: 1px solid #cccccc !important; }
-.teaching-table tr.tamu { background-color: #faf7f2; }
-.teaching-table tr.swufe { background-color: #f0ecde; }
-@media (prefers-color-scheme: dark) {
-    .teaching-table tr.tamu { background-color: #16181d; }
-    .teaching-table tr.swufe { background-color: #22252d; }
-}
+.teaching-table tr.tamu { background-color: transparent; }
+.teaching-table tr.swufe { background-color: var(--table-stripe); }
 .teaching-table code { padding: 0; }
 .teaching-table col.col-course { width: 35%; }
 .teaching-table col.col-level { width: 16%; }

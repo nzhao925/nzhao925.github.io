@@ -21,13 +21,9 @@ table th:nth-of-type(4) { width: 44%; }
     table th:nth-of-type(3), table td:nth-of-type(3) { width: 33%; }
     table th:nth-of-type(4), table td:nth-of-type(4) { width: 31%; }
 }
-tr.y-shade { background-color: #f0ecde !important; }
-tr.y-plain { background-color: #faf7f2 !important; }
+tr.y-shade { background-color: var(--table-stripe) !important; }
+tr.y-plain { background-color: transparent !important; }
 tr.y-first td { padding-top: 12px; }
-@media (prefers-color-scheme: dark) {
-    tr.y-shade { background-color: #22252d !important; }
-    tr.y-plain { background-color: #16181d !important; }
-}
 </style>
 
 <nav class="fs-sidenav" aria-label="Former students sections">
