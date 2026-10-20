@@ -1,5 +1,50 @@
 @import "vars";
 
+/* ---- Color tokens (day / night) ---- */
+:root {
+    color-scheme: light dark;
+    --bg: #faf7f2;
+    --text: #333333;
+    --text-muted: #6b6b6b;
+    --heading: #{darkslateblue};
+    --accent: #{darkslateblue};
+    --hr: #e5dfd3;
+    --code-color: #333333;
+    --header-bg: #faf7f2;
+    --card: #ffffff;
+    --table-stripe: #f0ecde;
+    --table-border: #d9d2c3;
+    --carousel-bg: #f3eee5;
+    --carousel-border: #e6dfd0;
+    --mobile-nav-bg: #efe9dc;
+    --mobile-nav-border: #e2dac8;
+    --sidenav-border: #d9d2c3;
+    --shadow: rgba(0, 0, 0, 0.12);
+    --icon-filter: none;
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #16181d;
+        --text: #d7d4ce;
+        --text-muted: #9a978f;
+        --heading: #b8adda;
+        --accent: #b8adda;
+        --hr: #2f3139;
+        --code-color: #d7d4ce;
+        --header-bg: #16181d;
+        --card: #1d2027;
+        --table-stripe: #22252d;
+        --table-border: #333845;
+        --carousel-bg: #1d2027;
+        --carousel-border: #2a2e37;
+        --mobile-nav-bg: #22252d;
+        --mobile-nav-border: #333845;
+        --sidenav-border: #333845;
+        --shadow: rgba(0, 0, 0, 0.5);
+        --icon-filter: invert(0.9) hue-rotate(180deg);
+    }
+}
+
 /*
  * Basic
  */
@@ -11,6 +56,7 @@ html {
     overflow-y: scroll;
     -webkit-text-size-adjust: 100%;
     text-size-adjust: 100%;
+    background-color: var(--bg);
 }
 /*
 :root{
@@ -26,8 +72,8 @@ body {
     font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 1.55;
-    color: #333333;
-    background-color: #ffffff;
+    color: var(--text);
+    background-color: var(--bg);
     height: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -38,10 +84,10 @@ body {
 code,pre {
 	padding:0 3px 2px;
 	font-family:Monaco,Menlo,Consolas,"Courier New",monospace;
-	font-size:11px;color:#333333;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;
+	font-size:11px;color: var(--code-color);-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;
 }
 h1, h2, h3, h4 {
-    color: darkslateblue;
+    color: var(--heading);
     font-family: "Cormorant", Georgia, "Times New Roman", serif;
     font-weight: 600;
     letter-spacing: 0;
@@ -51,7 +97,7 @@ h1, h2, h3, h4 {
 }
 a {
     text-decoration: none;
-    color: $accent;
+    color: var(--accent);
 }
 a:hover {
     text-decoration: underline;
@@ -59,7 +105,15 @@ a:hover {
 hr {
     border: 0;
     height: 0;
-    border-top: 1px solid #e5e5e5;
+    border-top: 1px solid var(--hr);
+}
+@media (prefers-color-scheme: dark) {
+    /* Small nav icons under the profile photo (Google Scholar / CV / email).
+       They are dark drawings on transparent PNG; invert so they stay visible
+       on the dark background. Keeps the profile photo (bare <img>) untouched. */
+    .responsive-div2 a img {
+        filter: var(--icon-filter);
+    }
 }
 .indent {
     padding-left: 12px;
@@ -78,7 +132,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #272727;
+    color: var(--text);
     display: inline-block;
     font-family: "Cormorant", Georgia, "Times New Roman", serif;
     font-weight: 600;
