@@ -11,7 +11,7 @@ title: Naibao Zhao
           <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV" style="display: inline-flex; align-items: flex-end; justify-content: center; line-height: 0; padding-bottom: 4px;"><img src="cv_icon.png" alt="CV" style="height: 25px; width: 22px; display: block;"></a>
           <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: flex-end; justify-content: center; line-height: 0; padding-bottom: 3px; margin-left: 3px;"><img src="email_icon.png" alt="Email" style="height: 28px; width: auto; display: block;"></a>
        </div>
-       <hr style="width: 150px; margin: 14px 0 10px; border: 0; border-top: 1px solid var(--hr);">
+       <hr style="width: 150px; margin: 8px 0; border: 0; border-top: 1px solid var(--hr);">
        <a href="https://mays.tamu.edu/" target="_blank" rel="noopener" style="display: block;">
          <img src="mays.png" alt="Texas A&M Mays Business School" class="mays-logo" style="width: 150px; height: auto; display: block;">
        </a>
