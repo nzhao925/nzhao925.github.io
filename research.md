@@ -33,7 +33,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
  
 <ul class="pub-list">
 <li>The Devil in the Air: Air Pollution and Dementia<br/>
-  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a></code><br/>
+  <code>with <a href="https://www.tru.ca/biogen/meng-sun.html" target="_blank">Meng Sun</a> and <a href="https://myweb.cuhk.edu.cn/emilyzheng" target="_blank">Emily Zheng</a></code><br/>
   <span class="pub-venue"><strong><em>Journal of Environmental Economics and Management (JEEM)</em></strong>, 2024. <code>[<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/dementia_final_JEEM.pdf" target="_blank">manuscript</a>] | [<a href="{{ BASE_PATH }}/research/dementia_2024_JEEM.pdf" target="_blank">online</a>] |</code></span>
   <div class="abstract"><div class="abstract-body">We study the causal relationship between air pollution and dementia prevalence. Leveraging the strict air pollution regulations implemented during the 2008 Beijing Olympics and employing a Synthetic Difference-in-Differences (SDID) approach, we find that a 1 µg/m³ decrease in annual PM10 levels corresponds to a 0.82 percentage point reduction in dementia prevalence (equivalent to 2.39% of the mean). Analyses across demographics show a more pronounced impact on vulnerable groups. Moreover, an economic assessment suggests that a 10 µg/m³ reduction in China's air pollution in 2010 could generate up to 2.36 billion US dollars in benefits due to a lower dementia prevalence. These results highlight the potential public health gains achievable through air pollution regulations.</div></div>
 </li>
@@ -48,7 +48,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
   <div class="abstract"><div class="abstract-body">This article studies cost-plus-time (A+B) procurement contracting with time incentives in the highway construction industry. In the presence of construction uncertainty, the contractor's actual completion time may deviate from the bid completion time, and the A+B contract design is not ex post efficient. Using data from highway procurement contracts in California, we show that an ex post efficient lane rental contract would reduce the social cost by $41.39 million (43.11%) on average. Moreover, the average commuter cost would decrease by $62.06 million (78.96%), suggesting a substantial reduction in the construction externality to commuters from lane rental contracts.</div></div>
 </li>
 <li>Effects of Minimum Wage on Workers&rsquo; On-the-Job Effort and Labor Market Outcomes<br/>
-  <code>with <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a></code><br/>
+  <code>with <a href="https://www.tru.ca/biogen/meng-sun.html" target="_blank">Meng Sun</a></code><br/>
   <span class="pub-venue"><strong><em>Economic Modelling</em></strong>, 2021. <code>[<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/minimum_wage_2021_EM.pdf" target="_blank">online</a>] |</code></span>
   <div class="abstract"><div class="abstract-body">Can higher minimum wages motivate workers to work harder? If so, what are the effects of workers' on-the-job effort responses on the labor market outcomes? To answer these questions, we apply a model with directed on-the-job search and dynamic incentive contracts in a frictional labor market. The steady-state comparison of the calibrated model shows that a higher minimum wage increases workers' on-the-job effort. It also reduces the average hiring and layoff rates. Since the reduction in the hiring rate is higher than the reduction in the layoff rate, the unemployment rate increases, and hence lowers the aggregate output. Moreover, we find that the higher minimum wage has a spillover effect on higher-income workers. It suggests that agents' incentive decisions can provide a new explanation of the spillover effect of the minimum wage. Lastly, shutting down the effort channel leads to greater labor market impacts. These results suggest that workers' on-the-job effort responses have moderate offsetting effects on the cost of the higher minimum wage.</div></div>
 </li>
@@ -87,7 +87,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 </li>
 </ul>
 <!-- - Sequential Private Experimentation Under Conclusive Bad News<br/>
-  <code>with <a href="https://sites.google.com/view/wentaofu/home" target="_blank">Wentao Fu</a> and <a href="https://kamino.tru.ca/experts/home/main/bio.php?id=msun" target="_blank">Meng Sun</a></code><br/><br/> -->
+  <code>with <a href="https://sites.google.com/view/wentaofu/home" target="_blank">Wentao Fu</a> and <a href="https://www.tru.ca/biogen/meng-sun.html" target="_blank">Meng Sun</a></code><br/><br/> -->
  
 <!-- ============ 摘要展开功能的脚本(只需保留一份) ============ -->
 <script>
