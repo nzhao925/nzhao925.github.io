@@ -6,7 +6,10 @@ title: Naibao Zhao
 <div class="container" style="display: flex; justify-content: space-around; margin-top: 20px; margin-bottom: 50px;">
     <div class="responsive-div2" style="display: flex; flex-direction: column; align-self: flex-start; margin-top: 74px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 12px;">
-        <div style="display: flex; gap: 14px; align-items: flex-end; justify-content: center; margin-top: 18px; padding-left: 6px;">
+        <a href="https://mays.tamu.edu/" target="_blank" rel="noopener" style="display: block; text-align: center; margin: 6px 0 2px;">
+          <img src="mays.png" alt="Texas A&M Mays Business School" class="mays-logo" style="width: 140px; height: auto; display: block; margin: 0 auto;">
+        </a>
+        <div style="display: flex; gap: 14px; align-items: flex-end; justify-content: center; margin-top: 10px; padding-left: 6px;">
           <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar" style="display: inline-flex; align-items: flex-end; justify-content: center; line-height: 0;"><img src="google_scholar_icon.png" alt="Google Scholar" style="height: 33px; width: auto; display: block;"></a>
           <a href="/cv.pdf" target="_blank" rel="noopener" title="CV" aria-label="CV" style="display: inline-flex; align-items: flex-end; justify-content: center; line-height: 0; padding-bottom: 4px;"><img src="cv_icon.png" alt="CV" style="height: 25px; width: 22px; display: block;"></a>
           <a href="mailto:nzhao@mays.tamu.edu" title="Email" aria-label="Email" style="display: inline-flex; align-items: flex-end; justify-content: center; line-height: 0; padding-bottom: 3px; margin-left: 3px;"><img src="email_icon.png" alt="Email" style="height: 28px; width: auto; display: block;"></a>
