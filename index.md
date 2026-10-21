@@ -4,7 +4,7 @@ title: Naibao Zhao
 ---
 
 <div class="container" style="display: flex; justify-content: space-around; margin-top: 20px; margin-bottom: 50px;">
-    <div class="responsive-div2" style="display: flex; flex-direction: column; align-self: flex-start; margin-top: 74px;">
+    <div class="responsive-div2" style="display: flex; flex-direction: column; align-self: flex-start; margin-top: 20px;">
         <img src="nzhao.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%; margin-bottom: 12px;">
         <div style="display: flex; gap: 14px; align-items: flex-end; justify-content: center; margin-top: 18px; padding-left: 6px;">
           <a href="https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar" style="display: inline-flex; align-items: flex-end; justify-content: center; line-height: 0;"><img src="google_scholar_icon.png" alt="Google Scholar" style="height: 33px; width: auto; display: block;"></a>
