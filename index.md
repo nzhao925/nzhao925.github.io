@@ -13,7 +13,10 @@ title: Naibao Zhao
        </div>
        <hr style="width: 150px; margin: 8px 0 16px; border: 0; border-top: 1px solid var(--hr);">
        <a href="https://mays.tamu.edu/" target="_blank" rel="noopener" style="display: block;">
-         <img src="mays.png" alt="Texas A&M Mays Business School" class="mays-logo" style="width: 150px; height: auto; display: block;">
+         <picture>
+           <source srcset="mays-dark.png" media="(prefers-color-scheme: dark)">
+           <img src="mays.png" alt="Texas A&M Mays Business School" class="mays-logo" style="width: 150px; height: auto; display: block;">
+         </picture>
        </a>
     </div>
     <div class="responsive-div">

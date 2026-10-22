@@ -116,15 +116,12 @@ hr {
     .responsive-div2 a img {
         filter: var(--icon-filter);
     }
-    /* The Mays Business School logo has black text on transparent bg.
-       Opt it out of the invert (would turn the maroon shield cyan) and
-       place it on a light "card" so the text stays readable in dark mode. */
+    /* The Mays logo swaps to a white-text variant via <picture>+<source>,
+       so no card background is needed in dark mode. Still opt the <img>
+       out of the generic icon invert above (would otherwise re-flip the
+       colors we baked into the dark variant). */
     .mays-logo {
         filter: none !important;
-        background: #f5f1e5;
-        padding: 6px 8px;
-        border-radius: 6px;
-        box-sizing: border-box;
     }
 }
 .indent {
