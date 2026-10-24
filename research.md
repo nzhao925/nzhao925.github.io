@@ -20,13 +20,13 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <style>
 .pub-list { padding-left: 1.2em; }
 .pub-list > li { margin-bottom: 5.5em; }
-.pub-venue { font-size: 13px; }
+.pub-venue { font-size: 13.5px; }
 .pub-list code { color: var(--text-muted); }
 .abs-toggle { cursor: pointer; color: var(--accent); -webkit-user-select: none; user-select: none; }
 .abs-toggle:hover { text-decoration: underline; }
 .abstract { max-height: 0; overflow: hidden; opacity: 0; transition: max-height .35s ease, opacity .25s ease, margin .35s ease; }
 .abstract.open { max-height: 1600px; opacity: 1; margin-top: .55em; }
-.abstract-body { background: var(--abstract-bg); border-left: 3px solid var(--accent); padding: 10px 14px; line-height: 1.6; text-align: justify; color: var(--text); }
+.abstract-body { background: var(--abstract-bg); border-left: 3px solid var(--accent); padding: 10px 14px; font-size: 13.5px; line-height: 1.6; text-align: justify; color: var(--text); }
 </style>
  
 ## <a name="instructor"></a> Publications
