@@ -3,23 +3,23 @@
 /* ---- Color tokens (day / night) ---- */
 :root {
     color-scheme: light dark;
-    --bg: #faf7f2;
+    --bg: #fffefa;
     --text: #333333;
     --text-muted: #6b6b6b;
     --heading: #{darkslateblue};
     --accent: #{darkslateblue};
-    --hr: #e5dfd3;
+    --hr: #e5e5e0;
     --code-color: #333333;
-    --header-bg: #faf7f2;
+    --header-bg: #fffefa;
     --card: #ffffff;
-    --table-stripe: #f8f4ea;
-    --table-border: #d9d2c3;
-    --carousel-bg: #f3eee5;
-    --carousel-border: #e6dfd0;
-    --mobile-nav-bg: #efe9dc;
-    --mobile-nav-border: #e2dac8;
-    --sidenav-border: #d9d2c3;
-    --abstract-bg: #f0ecde;
+    --table-stripe: #f5f4ef;
+    --table-border: #dcdcd5;
+    --carousel-bg: #f8f7f2;
+    --carousel-border: #ebebe4;
+    --mobile-nav-bg: #efefe8;
+    --mobile-nav-border: #e2e2db;
+    --sidenav-border: #dcdcd5;
+    --abstract-bg: #f0f0ea;
     --shadow: rgba(0, 0, 0, 0.12);
     --icon-filter: none;
 }
