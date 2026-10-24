@@ -19,7 +19,7 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 <!-- ============ 摘要展开功能的样式(只需保留一份) ============ -->
 <style>
 .pub-list { padding-left: 1.2em; }
-.pub-list > li { margin-bottom: 5.5em; }
+.pub-list > li { margin-bottom: 7em; }
 .pub-venue { font-size: 13.5px; }
 .pub-list code { color: var(--text-muted); }
 .abs-toggle { cursor: pointer; color: var(--accent); -webkit-user-select: none; user-select: none; }
