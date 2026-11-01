@@ -51,13 +51,9 @@
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="icon" type="image/svg+xml" href="/nz_icon.svg">
-    <link rel="icon" type="image/png" sizes="512x512" href="/nz_icon.png">
-    <link rel="apple-touch-icon" href="/nz_icon.png">
-    {% if site.favicon %}
-        <!--  <link rel="icon" type="image/ico" href="{{ site.favicon_location }}"> -->
-       <!-- <link rel="SHORTCUT ICON" href="{{ BASE_PATH }}/assets/tamu_logobox_450.ico"/> -->
-    {% endif %}
+    <link rel="icon" type="image/svg+xml" href="/nz_icon.svg?v=1">
+    <link rel="icon" type="image/png" sizes="512x512" href="/nz_icon.png?v=1">
+    <link rel="apple-touch-icon" href="/nz_icon.png?v=1">
     {% if site.twitter_username %}
         <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
     {% endif %}
@@ -82,6 +78,41 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Naibao Zhao",
+      "givenName": "Naibao",
+      "familyName": "Zhao",
+      "jobTitle": "Applied Economist",
+      "description": "Applied economist working on quantitative marketing, empirical IO, public policy, and applied microeconomics.",
+      "url": "https://naibaozhao.com",
+      "image": "https://naibaozhao.com/nzhao.jpeg",
+      "email": "mailto:nzhao@mays.tamu.edu",
+      "worksFor": {
+        "@type": "CollegeOrUniversity",
+        "name": "Mays Business School, Texas A&M University",
+        "url": "https://mays.tamu.edu/"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Texas A&M University",
+        "url": "https://www.tamu.edu/"
+      },
+      "knowsAbout": [
+        "Quantitative Marketing",
+        "Empirical Industrial Organization",
+        "Public Policy",
+        "Applied Microeconomics"
+      ],
+      "sameAs": [
+        "https://scholar.google.com/citations?user=hXPZ0XsAAAAJ&hl=en",
+        "https://stonecenter.uchicago.edu/people/naibao-zhao/",
+        "https://hceconomics.uchicago.edu/people/naibao-zhao"
+      ]
+    }
+    </script>
 </head>
 <body>
     <div class="wrapper">
