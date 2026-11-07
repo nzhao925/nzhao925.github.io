@@ -65,6 +65,11 @@ description: quantitative marketing, empirical IO, applied micro, household fina
 ## <a name="workingpapers"></a> Selected Working Papers
  
 <ul class="pub-list">
+<li>Legal but Unwelcome: Recreational Cannabis Dispensaries and Consumer Patronage at Nearby Businesses<br/>
+  <code>with <a href="https://poole.ncsu.edu/people/fangfei-guo/" target="_blank">Fangfei Guo</a> and <a href="https://mays.tamu.edu/directory/yan-lucy-liu/" target="_blank">Yan (Lucy) Liu</a></code><br/>
+  <span class="pub-venue"><code>[<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/rcd_manuscript.pdf" target="_blank">manuscript</a>]</code></span>
+  <div class="abstract"><div class="abstract-body">This study estimates the impacts of recreational cannabis dispensary licensing on consumer visits to nearby businesses. Using weekly foot traffic data from Los Angeles and a spatial stacked difference-in-differences design, we find that licensing reduces visits to businesses within 1.5 miles of a dispensary by 3.9%, relative to those located 1.5–2 miles away. The decline emerges gradually and persists over time. Negative spillovers diminish with distance but become larger and extend farther when more dispensaries are concentrated in an area. Changes in discretionary shopping, same-day trips, and online purchases are consistent with perceived disorder discouraging visits to nearby businesses. Our findings imply that the entry of a socially contested retailer can impose negative spillovers on nearby businesses, even without direct product-market competition, highlighting an overlooked local consequence of cannabis legalization.</div></div>
+</li>
 <li>Identification and Estimation of Binary Choice Models with Social Interactions and Unknown Group Structures<br/>
   <code>with <a href="https://people.tamu.edu/~yonghongan/" target="_blank">Yonghong An</a> and <a href="https://sites.google.com/view/wenzhenggao" target="_blank">Wenzheng Gao</a></code><br/>
   <span class="pub-venue"><strong><em>under review.</em></strong> <code>[<a class="abs-toggle" onclick="toggleAbs(this)">abstract</a>] | [<a href="{{ BASE_PATH }}/research/binarySI.pdf" target="_blank">manuscript</a>]</code></span>
