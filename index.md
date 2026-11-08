@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Naibao Zhao
+title: Naibao Zhao - Economist
 ---
 
 <div class="container" style="display: flex; justify-content: space-around; margin-top: 20px; margin-bottom: 50px;">
