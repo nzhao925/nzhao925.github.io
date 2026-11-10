@@ -4,8 +4,8 @@ baseurl: "https://nzhao925.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-og_image: "https://naibaozhao.com/nzhao.jpeg"
-twitter_image: "https://naibaozhao.com/nzhao.jpeg"
+og_image: "https://naibaozhao.com/og_card.jpg"
+twitter_image: "https://naibaozhao.com/og_card.jpg"
 
 tracking_id: #
 
